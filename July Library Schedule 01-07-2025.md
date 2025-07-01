@@ -4,7 +4,7 @@
 
 <!--
 file: library_hours_july2025.md
-version: v1
+version: v1.1
 timezone: Asia/Bangkok (UTC+7)
 -->
 
