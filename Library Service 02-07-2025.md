@@ -1,0 +1,1711 @@
+# กลุ่มผู้ใช้บริการที่สามารถเข้าห้องสมุดโดยไม่เสียค่าใช้จ่าย
+
+1\. นักศึกษา บุคลากร อาจารย์ ปัจจุบันของ มธ.
+
+2\. ศิษย์เก่า มธ. (โปรดแสดงบัตรประชาชน)
+
+3\. นักบวชทุกศาสนา (โปรดแสดงบัตรประชาชน หรือบัตรประจำตัว)
+
+4\. นักเรียน (โปรดแสดงบัตรประชาชน+บัตรนักเรียน)
+
+5\. บุคลากรในเครือข่ายความร่วมมือได้แก่ MOU ความร่วมมือระหว่างห้องสมุด
+
+## ห้องสมุดในความร่วมมือเข้าใช้พื้นที่ ฟรี หมดอายุสมาชิกทุกสิ้นปี
+
+### รายชื่อห้องสมุดเครือข่ายทางการพยาบาลแห่งประเทศไทย (เข้าใช้งานได้ฟรีเฉพาะห้องสมุดนงเยาว์ ชัยเสรี)
+
+1\. ห้องสมุดคณะพยาบาลศาสตร์ มหาวิทยาลัยมหิดล
+
+2\. ห้องสมุดคณะพยาบาลศาสตร์ มหาวิทยาลัยขอนแก่น
+
+3\. ห้องสมุดคณะพยาบาลศาสตร์ มหาวิทยาลัยเชียงใหม่
+
+4\. ห้องสมุดคณะพยาบาลศาสตร์ มหาวิทยาลัยสงขลานครินทร์
+
+5\. ห้องสมุดคณะพยาบาลศาสตร์เกื้อการุณย์ มหาวิทยาลัยนวมินทราธิราช
+
+6\. ห้องสมุดสถาบันการพยาบาลศรีสวรินทิรา สภากาชาดไทย
+
+7\. ห้องสมุดวิทยาลัยพยาบาลเกื้อการุณย์กรุงเทพฯ วิทยาลัยพยาบาล
+
+8\. ห้องสมุดคณะพยาบาลศาสตร์ มหาวิทยาลัยเกษตรศาสตร์
+
+9\. ห้องสมุดคณะพยาบาลศาสตร์ มหาวิทยาลัยรังสิต
+
+10\. ห้องสมุดคณะพยาบาลศาสตร์ มหาวิทยาลัยอุบลราชธานี
+
+11\. ห้องสมุดคณะพยาบาลศาสตร์ มหาวิทยาลัยราชภัฏสวนดุสิต
+
+12\. ห้องสมุดนงเยาว์ ชัยเสรี มหาวิทยาลัยธรรมศาสตร์
+
+13\. ห้องสมุดคณะพยาบาลศาสตร์ มหาวิทยาลัยราชภัฏชัยภูมิ
+
+14\. ห้องสมุดคณะพยาบาลศาสตร์ มหาวิทยาลัยราชภัฏร้อยเอ็ด
+
+15\. ห้องสมุดคณะพยาบาลศาสตร์ มหาวิทยาลัยราชภัฏศรีสะเกษ
+
+16\. ห้องสมุดวิทยาลัยพยาบาลและสุขภาพ มหาวิทยาลัยราชภัฏสวนสุนันทา จังหวัดสมุทรสงคราม
+
+17\. ห้องสมุดวิทยาลัยพยาบาลกองทัพบก
+
+18\. ห้องสมุดกรมแพทย์ทหารบก
+
+19\. ห้องสมุดวิทยาลัยพยาบาลเกษมบัณฑิต
+
+20\. ห้องสมุดวิทยาลัยพยาบาลตำรวจ
+
+21\. ห้องสมุดวิทยาลัยพยาบาลบรมราชชนนี กรุงเทพ
+
+22\. ห้องสมุดวิทยาลัยพยาบาลบรมราชชนนีนนทบุรี มหาวิทยาลัยสวนดุสิต
+
+23\. ห้องสมุดวิทยาลัยพยาบาลบรมราชชนนี นนทบุรี
+
+24\. ห้องสมุดวิทยาลัยพยาบาลบรมราชชนนี สุพรรณบุรี
+
+25\. ห้องสมุดวิทยาลัยพยาบาลบรมราชชนนี ราชบุรี
+
+26\. ห้องสมุดวิทยาลัยพยาบาลบรมราชชนนีฉะเชิงเทรา
+
+27\. ห้องสมุดวิทยาลัยพยาบาลบรมราชชนนี สุรินทร์
+
+28\. ห้องสมุดวิทยาลัยพยาบาลบรมราชชนนี เชียงใหม่
+
+29\. ห้องสมุดวิทยาลัยพยาบาลบรมราชชนนี ชลบุรี
+
+30\. ห้องสมุดวิทยาลัยพยาบาลบรมราชชนนี ขอนแก่น
+
+31\. ห้องสมุดวิทยาลัยพยาบาลบรมราชชนนี เชียงราย
+
+32\. ห้องสมุดวิทยาลัยพยาบาลบรมราชชนนี ตรัง
+
+33\. ห้องสมุดวิทยาลัยพยาบาลบรมราชชนนี นครราชสีมา
+
+34\. ห้องสมุดวิทยาลัยพยาบาลบรมราชชนนี ลำปาง
+
+35\. ห้องสมุดวิทยาลัยพยาบาลบรมราชชนนี สกลนคร
+
+36\. ห้องสมุดวิทยาลัยพยาบาลบรมราชชนนี พะเยา
+
+37\. ห้องสมุดวิทยาลัยพยาบาลบรมราชชนนี นครศรีธรรมราช
+
+38\. ห้องสมุดวิทยาลัยพยาบาลบรมราชชนนี ยะลา
+
+39\. ห้องสมุดวิทยาลัยพยาบาลบรมราชชนนี ศรีมหาสารคาม
+
+40\. ห้องสมุดวิทยาลัยพยาบาลบรมราชชนนี สงขลา
+
+41\. ห้องสมุดวิทยาลัยพยาบาลบรมราชชนนี สรรพสิทธิประสงค์
+
+42\. ห้องสมุดวิทยาลัยพยาบาลบรมราชชนนี สระบุรี
+
+43\. ห้องสมุดวิทยาลัยพยาบาลบรมราชชนนี สวรรค์ประชารักษ์นครสวรรค์
+
+44\. ห้องสมุดวิทยาลัยพยาบาลบรมราชชนนี อุดรธานี
+
+45\. ห้องสมุดวิทยาลัยพยาบาลบรมราชชนนี อยุธยา
+
+46\. ห้องสมุดวิทยาลัยพยาบาลบรมราชชนนี พะเยา
+
+47\. ห้องสมุดวิทยาลัยพยาบาลบรมราชชนนี พระพุทธบาท
+
+48\. ห้องสมุดวิทยาลัยพยาบาลพระจอมเกล้า เจ้าคุณทหารลาดกระบัง
+
+49\. ห้องสมุดวิทยาลัยพยาบาลพระปกเกล้า จันทบุรี
+
+50\. ห้องสมุดวิทยาลัยพยาบาลบรมราชชนนี สุโขทัย
+
+51\. ห้องสมุดวิทยาลัยพยาบาลบรมราชชนนี นครศรีธรรมราช
+
+### รายชื่อห้องสมุดเครือข่ายห้องสมุดกฎหมาย การเมือง การปกครอง (เข้าใช้งานได้ฟรีเฉพาะห้องสมุดสัญญา ธรรมศักดิ์)
+
+1\. วิทยาลัยบริการศาลทรัพย์สินทางปัญญาและการค้าระหว่างประเทศกลาง
+
+2\. ศูนย์วิทยบริการ สำนักงานอัยการสูงสุด
+
+3\. ศูนย์วิทยบริการศาลยุติธรรมเฉลิมพระเกียรติ
+
+4\. ศูนย์สารสนเทศสิทธิมนุษยชน
+
+5\. หอสมุดกฎหมายมหาชน สำนักงานศาลปกครอง
+
+6\. หอสมุดกฎหมายรัฐธรรมนูญ
+
+7\. หอสมุดสุขุม นวพันธ์ สำนักบริการการศึกษาและบรรณสาร สถาบันบัณฑิตพัฒนบริหารศาสตร์
+
+8\. หอสมุดแห่งมหาวิทยาลัยธรรมศาสตร์
+
+9\. ห้องสมุดกรมคุ้มครองสิทธิและเสรีภาพ
+
+10\. ห้องสมุดกรมพระธรรมบุญ
+
+11\. ห้องสมุดกรมพินิจและคุ้มครองเด็กและเยาวชน
+
+12\. ห้องสมุดกระทรวงยุติธรรม
+
+13\. ห้องสมุดกูณิสภา
+
+14\. ห้องสมุดศาลล้มละลายกลาง
+
+15\. ห้องสมุดสถาบันพระปกเกล้า
+
+16\. ห้องสมุดสำนักงานคณะกรรมการกฤษฎีกา
+
+17\. ห้องสมุดสำนักงานผู้ตรวจการแผ่นดิน
+
+18\. ห้องสมุดสำนักงานพัฒนาธุรกรรมทางอิเล็กทรอนิกส์ (องค์การมหาชน)
+
+19\. ห้องสมุดสำนักงานเลขาธิการสภาผู้แทนราษฎร
+
+20\. ห้องสมุดและนิทรรศการประชาธิปไตย
+
+21\. สำนักงานคณะกรรมการการเลือกตั้ง
+
+## กลุ่มผู้ใช้บริการที่เสียค่าใช้จ่ายเข้าห้องสมุด
+
+1\. บุคคลภายนอก เสียค่าบริการ 30 บาทต่อวัน สามารถเข้าได้ทุกห้องสมุด ยกเว้น ศูนย์การเรียนรู้ฯ สงวนสิทธิ์ให้กับนักศึกษา บุคลากร อาจารย์ ปัจจุบันของ มธ. เท่านั้น
+
+2. สำหรับห้องสมุดประชาชน บุคคลภายนอกสามารถเข้าใช้งานได้ฟรี
+
+## การเข้าหอสมุด
+
+- สำหรับนักศึกษา อาจารย์และบุคลากร ปัจจุบันสามารถใช้บัตรประจำตัว, บัตรนักศึกษาหรือ Virtual Card จาก TU Great App Scan เข้าห้องสมุดหรือยืมหนังสือหรืออุปกรณ์ได้ทุกห้องสมุด
+
+- นักศึกษารักษาสถานภาพที่ต้องการใช้บริการห้องสมุด กรณีลาพัก / รักษาสถานภาพ ต้องการยืมหนังสือให้ชำระค่าบำรุงห้องสมุดตามหลักสูตรที่เรียน
+
+### ให้ตรวจสอบการชำระเงินค่าบำรุงห้องสมุด ที่ สำนักงานทะเบียน (https://reg.tu.ac.th)
+
+ป.ตรี จ่ายเทอมละ 1,000 บาท  ปีละ 2,000 บาท
+
+ป.โท/เอก จ่ายเทอมละ 2,000 บาท ปีละ 4,000 บาท
+
+โอนเข้าบัญชีออมทรัพย์ ธนาคารกรุงเทพ จำกัด (มหาชน) สาขามธ.ศูนย์รังสิต ชื่อบัญชี มหาวิทยาลัยธรรมศาสตร์ บัญชีเลขที่ 091-0-15280-0 เมื่อโอนเงินแล้ว ส่งหลักฐานการโอนเงินพร้อมรายละเอียด เพื่อออกใบเสร็จรับเงินมาที่ email: mai_tufin@hotmail.com โทร. 02-5644440 ต่อ 1357
+
+# การรับหนังสือ
+
+## แจ้งรับหนังสือแทน
+
+ไม่ได้เข้าห้องสมุดให้เพื่อนไปรับหนังสือแทนได้ไหม คำตอบคือ ได้
+
+1. แจ้งชื่อหนังสือ ชื่อ-นามสกุล รหัสนักศึกษาและแคปภาพหน้าจอ Email
+
+2. แจ้งชื่อผู้ที่ต้องการให้ไปรับหนังสือแทน
+
+3. แจ้งข้อมูลได้ที่ Line: TULIB LifeONLine: @Https://lin.ee/bdwYsr1 เลือกเมนู Live Chat ปรึกษาเจ้าหน้าที่
+
+## แจ้งเปลี่ยนสถานที่รับหนังสือ
+
+อยากเปลี่ยนสถานที่รับหนังสือได้ไหม คำตอบคือ ได้
+
+1\. แจ้งชื่อหนังสือ ชื่อ-นามสกุล รหัสนักศึกษาและแคปภาพหน้าจอ Email
+
+2\. แจ้งข้อมูลได้ที่ Line: TULIB LifeONLine: @Https://lin.ee/bdwYsr1 เลือกเมนู Live Chat ปรึกษาเจ้าหน้าที่
+
+# รวม Social Media ทุกช่องทางของหอสมุดแห่งมหาวิทยาลัยธรรมศาสตร์
+
+1\. Facebook : Thammasat University Library >> https://www.facebook.com/ThammasatULibrary
+
+2\. Twitter (X) : @tulibs >> https://twitter.com/tulibs
+
+3\. TikTok : @tulib2022 >> https://www.tiktok.com/@tulib2022
+
+4\. YouTube : Thammasat University Library
+
+## หอสมุดป๋วย อึ๊งภากรณ์
+
+1\. Facebook: Puey Ungpakorn Library >> https://www.facebook.com/pueylibrary
+
+2\. Instagram: https://www.instagram.com/puey_library/
+
+## ห้องสมุดนงเยาว์ ชัยเสรี
+
+1\. Facebook: Nongyao Chaiseri Library >> https://www.facebook.com/nongyaolib/
+
+2\. Instagram: https://www.instagram.com/tu_health_library/
+
+## ห้องสมุดสัญญา ธรรมศักดิ์
+
+1\. Facebook: ห้องสมุดสัญญา ธรรมศักดิ์ >> https://www.facebook.com/TULawLibrary
+
+## ห้องสมุดบุญชู ตรีทอง
+
+1\. Facebook:Boonchoo Treethong Library, Thammasat University, Lampang Campus >> https://www.facebook.com/BoonchooTreethongLib
+
+# กฎและระเบียบของห้องสมุด
+
+https://library.tu.ac.th/bbs/content/94_470
+
+# ที่อยู่หอสมุดแห่งมหาวิทยาลัยธรรมศาสตร์
+
+1\. ห้องสมุดประชาชน มหาวิทยาลัยธรรมศาสตร์ มหาวิทยาลัยธรรมศาสตร์ ศูนย์รังสิต 99 หมู่ 18 ถนนพหลโยธิน ตำบลคลองหนึ่ง อำเภอคลองหลวง จังหวัดปทุมธานี 12121 Phone: 02-564-4444-59 ต่อ 4800 Website: https://tupublic.edlib.in.th/SearchData
+
+Line: TULIB: LifeONLine: https://lin.ee/bdwYsr1
+
+2\. ศูนย์การเรียนรู้กรมหลวงนราธิวาสราชนครินทร์ มหาวิทยาลัยธรรมศาสตร์ ศูนย์รังสิต 99 หมู่ 18 ถนนพหลโยธิน อำเภอคลองหลวง จังหวัดปทุมธานี 12121 Phone : 02-564-4444 ต่อ 6631
+
+Email: pueylibrary@tu.ac.th
+
+Line: TULIB LifeONLine: @Https://lin.ee/bdwYsr1
+
+3\. ห้องสมุดนงเยาว์ ชัยเสรี (ห้องสมุดกลุ่มสุขศาสตร์) : อาคารปิยชาติ ชั้น 7 มหาวิทยาลัยธรรมศาสตร์ ศูนย์รังสิต 99 หมู่ 18 ถนนพหลโยธิน ตำบลคลองหนึ่ง อำเภอคลองหลวง จังหวัดปทุมธานี 12121 Phone :02-5644440-4 ต่อ 7502-4
+
+Email: tmedlib@tu.ac.th
+
+Line: TULIB LifeONLine: @ Https://lin.ee/bdwYsr1
+
+4\. หอสมุดป๋วย อึ๊งภากรณ์ มหาวิทยาลัยธรรมศาสตร์ ศูนย์รังสิต 99 หมู่ 18 ถนนพหลโยธิน ตำบลคลองหนึ่ง อำเภอคลองหลวง จังหวัดปทุมธานี 12121 Phone :0-2564-4444 ต่อ 1305
+
+Email: pueylibrary@tu.ac.th
+
+Line: TULIB LifeONLine: @Https://lin.ee/bdwYsr1
+
+5\. ห้องสมุดมหาวิทยาลัยธรรมศาสตร์ ศูนย์พัทยา 39/4 หมู่ 5 ตำบลโป่ง อำเภอบางละมุง จังหวัดชลบุรี 20150 Phone : 0-3825-9056
+
+Facebook: Thammasat University Library
+
+6\. ห้องสมุดสัญญา ธรรมศักดิ์ (คณะนิติศาสตร์) มหาวิทยาลัยธรรมศาสตร์ ท่าพระจันทร์ 2 ถนนพระจันทร์ เขตพระนคร กรุงเทพฯ 10200
+
+Phone :02-221-6111 ถึง 20 ต่อ 81-2151
+
+Email: sanyalibrary@tu.ac.th
+
+Line: TULIB LifeONLine :@Https://lin.ee/bdwYsr1
+
+7\. ห้องสมุดศาสตราจารย์สังเวียน อินทรวิชัย (คณะพาณิชยศาสตร์และการบัญชี) : ชั้น 4 มหาวิทยาลัยธรรมศาสตร์ ท่าพระจันทร์
+
+2 ถนนพระจันทร์ เขตพระนคร กรุงเทพฯ 10200 Phone : 02-221-6111 ถึง 20 ต่อ 81-2265
+
+Email: library@tbs.tu.ac.th
+
+Line: TULIB LifeONLine :@Https://lin.ee/bdwYsr1
+
+8\. ห้องสมุดศาสตราจารย์ดิเรก ชัยนาม (คณะรัฐศาสตร์): ชั้น 5 มหาวิทยาลัยธรรมศาสตร์ ท่าพระจันทร์ 2 ถนนพระจันทร์ พระนคร กรุงเทพฯ 10200 Phone :02-221-6111 ถึง 20 ต่อ 81-2308
+
+Email: direklibrary@tu.ac.th
+
+Line: TULIB LifeONLine :@Https://lin.ee/bdwYsr1
+
+9\. ห้องสมุดคณะวารสารศาสตร์และสื่อสารมวลชน มหาวิทยาลัยธรรมศาสตร์ ท่าพระจันทร์ 2 ถนนพระจันทร์ พระนคร กรุงเทพฯ 10200
+
+Phone :02-221-6111 ถึง 20 ต่อ 81-2716
+
+Email: jclibrary@tu.ac.th
+
+Line: TULIB LifeONLine :@Https://lin.ee/bdwYsr1
+
+10\. หอสมุดปรีดี พนมยงค์ มหาวิทยาลัยธรรมศาสตร์ ท่าพระจันทร์ เลขที่ 2 ถนนพระจันทร์ เขตพระนคร กรุงเทพมหานคร 10200
+
+Phone :02-221-6111 ถึง 20 ต่อ 81-3544
+
+Email: pridilibrary@tu.ac.th
+
+Line: TULIB LifeONLine:@Https://lin.ee/bdwYsr1
+
+11\. ห้องสมุดป๋วย อึ๊งภากรณ์ (คณะเศรษฐศาสตร์ฯ) มหาวิทยาลัยธรรมศาสตร์ ท่าพระจันทร์ 2 ถนนพระจันทร์ เขตพระนคร กรุงเทพฯ 10200 Phone :02-221-6111 ถึง 20 ต่อ 81-3550
+
+Email: econlibrary@econ.tu.ac.th
+
+Line: TULIB LifeONLine :@Https://lin.ee/bdwYsr1
+
+12\. ห้องสมุดบุญชู ตรีทอง มหาวิทยาลัยธรรมศาสตร์ ศูนย์ลำปาง 248 หมู่ 2 ถนนลำปาง-เชียงใหม่ ตำบลปงยางคก อำเภอห้างฉัตร จังหวัดลำปาง 52190 Phone : 054-237973 ต่อ 5130, 5131
+
+Email: boonchoolibrary@tu.ac.th
+
+Facebook: ห้องสมุดบุญชู ตรีทอง
+
+Line: TULIB LifeONLine :@Https://lin.ee/bdwYsr1
+
+# สิทธิการยืมและค่าปรับ
+
+1. นักศึกษาระดับปริญญาตรี และนักศึกษาพิเศษระดับปริญญาตรี จำนวนเล่ม 25 เล่ม ระยะเวลา 30วัน
+
+2. นักศึกษาระดับบัณฑิตศึกษา และนักศึกษาพิเศษระดับบัณฑิตศึกษา จำนวนเล่ม 45 เล่ม ระยะเวลา 30 วัน
+
+3. อาจารย์ บรรณารักษ์ นักวิจัย และครูกระบวนการ จำนวนเล่ม 60 เล่ม ระยะเวลา 1 ภาคการศึกษา
+
+4. พนักงาน ลูกจ้าง แพทย์ประจำบ้าน และแพทย์ใช้ทุน รพ.มธ. จำนวนเล่ม 20 เล่ม ระยะเวลา 30 วัน
+
+5. บุคลากรเกษียณอายุราชการ จำนวนเล่ม 5 เล่ม จำนวนวัน 15 ภาษาอังกฤษไม่เกิน 2 เล่ม
+
+6. สมาชิกสมทบ จำนวนเล่ม 20 เล่ม ระยะเวลา 30 วัน
+
+7. นักเรียนโรงเรียนสาธิตแห่งมหาวิทยาลัยธรรมศาสตร์ จำนวนเล่ม 10เล่ม ระยะเวลา 30 วัน
+
+## ค่าปรับเกินกำหนดส่ง
+
+1. ประเภททรัพยากรหนังสือ วิทยานิพนธ์ เอกสาร และวัสดุประกอบทั่วไป ค่าปรับ 5 บาท/วัน
+
+2. หนังสือสำรอง และวัสดุประกอบ ค่าปรับ 10 บาท/วัน
+
+3. เครื่องมืออิเล็กทรอนิกส์ คอมพิวเตอร์ และอุปกรณ์เสริมการใช้งานคอมพิวเตอร์	 ค่าปรับ 50 บาท/วัน
+
+4 วัสดุอุปกรณ์อื่น ค่าปรับ 5 บาท/วัน
+
+## การยืมต่อ (RENEWING SERVICE)
+
+1. สมาชิกสามารถ ยืมหนังสือต่อด้วยตนเองโดยไม่จำกัดจำนวนครั้งหากรายการนั้นไม่มีการจอง และไม่มีค่าปรับค้างชำระ
+
+2.  ยืมต่อหรือ Renew ได้ที่ https://library.tu.ac.th/myloan/list
+
+## การแจ้งเตือนทางออนไลน์ (ONLINE NOTIFICATIONS SERVICE)
+
+1. สมาชิกจะได้รับแจ้งเตือนทาง e-mail ก่อนถึงกำหนดส่งคืน โดยสามารถกำหนดวันแจ้งเตือนด้วยตนเอง เพื่อจะได้ยืมต่อหรือนำมาส่งคืนตามกำหนดโดยไม่เสียค่าปรับ
+
+2. สมาชิกได้รับการแจ้งเตือนทาง Https://lin.ee/bdwYsr1 โดยเพิ่มเพื่อนได้ที่: https://lin.ee/bdwYsr1
+
+## การจองหนังสือ (HOLDING SERVICE)
+
+1. สมาชิกสามารถ จองหนังสือด้วยตนเอง หากระบบแสดงสถานภาพของหนังสือเป็น checked out
+
+2.  ตรวจสอบรายการจองได้ที่เมนู Reserved Item: https://library.tu.ac.th/myloan/list
+
+## กรณีทรัพยากรของห้องสมุดชำรุดหรือเสียหาย
+
+1. ผู้ใช้บริการชำระค่าปรับเท่ากับราคาของทรัพยากรของห้องสมุด และค่าบริการเพิ่มเติมเป็นค่าดำเนินการทางเทคนิคให้แก่หอสมุดแห่งมหาวิทยาลัยธรรมศาสตร์ในอัตรา 100 บาท ต่อหนึ่งหน่วย
+
+2. หากผู้ใช้นักศึกษาค้างส่งคืนทรัพยากรของห้องสมุด ค่าปรับ หรือค่าชดใช้ทรัพยากรห้องสมุดที่ชำรุดหรือสูญหาย นักศึกษาจะถูกระงับสิทธิการลงทะเบียน การขึ้นทะเบียนบัณฑิต หรือการรับเอกสารสำคัญทางการศึกษา
+
+## วิธีชำระค่าปรับหนังสือด้วยตนเอง
+
+1. เข้าสู่ระบบ จากเว็บไซต์ห้องสมุด library.tu.ac.th
+
+2. ไปที่เมนู "My library"
+
+3. เลือก "Loans / Renewal /Reservation"
+
+4. ไปที่แถบ Fines
+
+5. หากต้องการชำระค่าปรับทีละรายการ ให้ติ๊กเลือกทีละรายการ หากต้องการชำระทั้งหมด ให้กดปุ่มเลือกทั้งหมด ที่อยู่ด้านบน
+
+6. กด "Payment" และสแกน QR Code เพื่อชำระค่าปรับได้เลย
+
+หมายเหตุ
+
+- QR Code จะมีอายุ 1 ชั่วโมง หากเกินเวลาจะต้องกด Payment ใหม่อีกครั้ง
+
+- ผู้ใช้บริการที่มีค่าปรับค้าง จะไม่สามารถยืม ต่ออายุ จอง และใช้บริการ book delivery ได้
+
+- ถ้าไม่สามารถสแกน QR code ได้ ให้ลองเปลี่ยนแอปธนาคาร หรือ ติดต่อที่ไลน์ Line :@Https://lin.ee/bdwYsr1 จากเลือกเมนู Live Chat เพื่อสอบถามเจ้าหน้าที่ได้โดยตรง
+
+## หากต้องการยืมหนังสือต่อ (RENEW) สามารถทำด้วยวิธีดังนี้
+
+1. เข้าสู่ระบบ ที่เว็บไซต์ https://library.tu.ac.th
+
+2. ล็อกอินแล้วเลือกเมนู My Library
+
+3. เลือกเมนู Loans / Renewal / Reservation
+
+4. รายการหนังสือทั้งหมดที่ยืมจะแสดงที่แถบ Borrower Information
+
+5. สามารถเลือกรายการทั้งหมด แล้วกด Renew ได้เลย
+
+6. ตรวจสอบวันกำหนดคืนหรือ Due Date ทุกครั้งหลังจากรายการยืมต่อ หากวันกำหนดคืนไม่เปลี่ยนแปลงหรือถูกอัปเดต อาจเป็นหนังสือที่ถูกผู้ใช้งานท่านอื่นจองต่อ จำเป็นต้องนำหนังสือมาคืนภายในวันที่กำหนดเท่านั้น
+
+### หมายเหตุ
+
+- นักศึกษาต่ออายุได้ตั้งแต่ก่อนหนังสือหมดอายุ 15 วัน
+
+- กรณีหนังสือเกินกำหนด ไม่สามารถต่ออายุได้ กรุณาติดต่อห้องสมุด
+
+- กรณีหนังสือมีค่าปรับ ต้องชำระค่าปรับก่อน ถึงต่ออายุการยืมหนังสือได้
+
+อุปกรณ์ Library of Things เช่น Laptop, Notebook, iPad, Apple Pencil, จะไม่สามารถต่ออายุการยืมได้
+
+ตรวจสอบรายการอุปกรณ์ทั้งหมด Library of Things ได้ที่: https://library.tu.ac.th/searchA/acz
+
+## วิธีการยืมหนังสือระหว่างห้องสมุดสาขา การยืมหนังสือระหว่างท่าพระจันทร์ ศูนย์รังสิต และศูนย์ลำปาง สำหรับนักศึกษาอาจารย์และบุคคลากร
+
+1. เข้าสู่ระบบ login ที่หน้าเว็บไซต์ https://library.tu.ac.th/
+
+2. เลือกเมนู Library Catalog (แค็ตตาล็อกห้องสมุด) ตรงแถบการค้นหา
+
+3. ค้นหาหนังสือที่ต้องการ
+
+4. ตรวจสอบว่าสถานะหนังสือ "พร้อมใช้งาน" หรือไม่
+
+5. หากสถานะหนังสือ "พร้อมใช้งาน" ให้คลิกปุ่มสีม่วงที่มีสัญลักษณ์ "B" Book Delivery
+
+6. เลือกห้องสมุดที่ต้องการรับเล่ม
+
+7. การตรวจสอบสถานะที่เมนู My Library เลือก Loans / Renewal / Reservation เลือกแถบเมนู ILL Status
+
+### หมายเหตุ
+
+- หนังสือที่เลือกรับที่หอสมุดปรีดีฯ และหอสมุดป๋วยฯ สามารถรับได้ที่ล็อคเกอร์
+
+- สามารถรับหนังสือได้ตลอด 24 ชั่วโมง โดยจะต้องรับหนังสือภายใน 5 วัน
+
+## บริการส่งหนังสือทางไปรษณีย์
+
+ค่าบริการจัดส่งหนังสือทางไปรษณีย์ กล่องที่ 1 เล่มแรก ราคา 80 บาท เล่มต่อไป + เพิ่ม 20 บาท / เล่ม ถ้า 1 กล่องใส่ไม่พอ กล่องที่ 2 ราคา 80 บาท เล่มต่อไป + เพิ่ม 20 บาท / เล่ม
+
+### ขั้นตอนการขอใช้บริการ
+
+1. ผู้ใช้แจ้งรายละเอียดหนังสือที่ต้องการให้ส่งทางไปรษณีย์ หรือแนบลิงก์ที่ค้นจากเว็บไซต์ห้องสมุด
+
+2. ผู้ใช้แจ้งชื่อ-นามสกุล ที่อยู่ และเบอร์โทรในการจัดส่ง
+
+3. เจ้าหน้าที่รับคำขอ และแจ้งราคาค่าส่ง หลังจากจัดเตรียมและแพ็คเสร็จแล้วทางไลน์
+
+4. ผู้ใช้ชำระค่าส่งที่ https://library.tu.ac.th/login เลือก My Library > Loans/ Renewal/ Reservation > Fines
+
+5. ผู้ใช้ส่งหลักฐานการชำระค่าส่งมาทางไลน์
+
+#### หมายเหตุ
+
+- หากยกเลิกคำขอหลังจากที่เจ้าหน้าที่ดำเนินการแล้ว หอสมุดฯ ขอสงวนสิทธิในการเก็บค่าบริการ
+
+- กรณีหนังสือมีตัวเล่มขนาดใหญ่ ทางห้องสมุดจะคิดราคาเพิ่มตามน้ำหนักจริงโดยทางเจ้าหน้าที่จะแจ้งให้ทราบอีกครั้ง กรณีที่มีการคิดราคาค่าจัดส่งเพิ่ม
+
+### วิธีเช็คสถานะ Delivery ของหนังสือ
+
+1. TULIB Delivery
+
+2. WorldShare ILL
+
+3. TU - PULLINET & TU - THAIPUL
+
+ได้ที่ลิงก์นี้ >> https://library.tu.ac.th/bbs/content/94_506
+
+สำหรับบริการ TULIB Delivery สามารถตรวจสอบได้อีกช่องทางที่เมนู My Library ในส่วนของ "Loans / Renewal /Reservation"
+
+## วิธีคืนหนังสือ ผู้ใช้บริการคืนหนังสือได้ ดังนี้
+
+1. คืนด้วยตัวเองได้ที่เคาน์เตอร์บริการยืม-คืน ของทุกห้องสมุดสาขา ตามวันและเวลาเปิดปิดบริการ
+
+2. ส่งคืนทางไปรษณีย์ไทย
+
+2.1 หนังสือต่างห้องสมุดสามารถคืนรวมกันได้
+
+2.2 ใช้ขนส่งเป็น ""ไปรษณีย์ไทย"" เท่านั้น
+
+2.3 ไม่รับ ขนส่งเอกชน
+
+2.4 ที่อยู่ส่งไปรษณีย์ (หอสมุดปรีดี / หอสมุดป๋วย / ห้องสมุดบุญชู) ดูที่นี่ https://library.tu.ac.th/bbs/content/94_616
+
+2.5 ระบุหน้ากล่อง ว่า หนังสือส่งคืน
+
+2.6 หากส่งแล้วแจ้ง ชื่อ - รหัสนักศึกษา -Tracking no. ที่ Line:TULIB LifeONLine: @Https://lin.ee/bdwYsr1 และเก็บ Slip ไปรษณีย์ไว้ด้วยนะคะ
+
+3. คืนหนังสือที่ตู้ Book Drop
+
+3.1 ตู้ Book Drop หอสมุดป๋วยฯ ที่ตั้งบริเวณห้องสำนักงานหอป๋วยฯ ชั้น 1 ทางเชื่อมไปศูนย์การเรียนรู้ (รังสิต)
+
+3.2 ตู้ Book Drop หอพัก B6, C5, C8 เจ้าหน้าที่จะดำเนินการจัดเก็บหนังสือเฉพาะวันอังคารและพฤหัส (รังสิต)
+
+3.3 ตู้ Book Drop ห้องสมุดนงเยาว์ ชัยเสรี ห้องสมุดกลุ่มแพทย์ธรรมศาสตร์ (รังสิต)
+
+3.4 ตู้ Book Drop ห้องสมุดสัญญา ธรรมศักดิ์ คณะนิติศาสตร์ (ท่าพระจันทร์)
+
+3.5 ตู้ Book Drop หอสมุดปรีดี พนมยงค์ (ท่าพระจันทร์)
+
+3.6 ตู้ Book Drop ห้องสมุด ศ.สังเวียน อินทรวิชัย คณะพาณิชยศาสตร์และการบัญชี (ท่าพระจันทร์)
+
+## วิธียกเลิกคำขอยืมหนังสือ (Book Delivery)
+
+1. เข้าสู่ระบบ ที่เว็บไซต์ https://library.tu.ac.th
+
+2. เลือกเมนู My Library
+
+3. เลือกเมนู Loans / Renewal / Reservation
+
+4. เลือกแถบเมนู ILL Status
+
+5. เลือกรายการที่ต้องยกเลิก แล้วกด Cancel Apply
+
+### วิธีรับหนังสือผ่าน Smart Locker รับหนังสือผ่าน Smart Locker ง่าย ๆ
+
+1. คลิกเมนู "รับหนังสือ" ที่หน้าจอ
+
+2. Login ด้วย Username และ Password เดียวกับ TU Wi-Fi หรือสแกน QR CODE ที่ได้รับจากอีเมล
+
+3. กดปุ่ม "รับหนังสือ" ตรวจสอบรายการหนังสือ และหมายเลขตู้
+
+4. กดปุ่ม "รับหนังสือ" อีกครั้ง และเปิดตู้รับหนังสือ
+
+5. รับหนังสือเสร็จแล้ว กรุณาปิดประตูลอกเกอร์ให้สนิท
+
+ท่าพระจันทร์ หอสมุดปรีดีฯ >> อยู่ตรงฝั่งตรงข้ามหอสมุดปรีดี พนมยงค์ บริเวณทางเข้าสำนักงานหอสมุดฯ ชั้น 1
+
+รังสิตหอสมุดป๋วยฯ >> อยู่ตรงประตูทางเข้า ฝั่งธนาคารกรุงเทพ
+
+หนังสือจะอยู่ในล็อกเกอร์เป็นเวลา 5 วันหลังจากที่ผู้ใช้ได้รับอีเมล หากเกินกำหนด ทางห้องสมุดจะเก็บหนังสือไปคืนที่
+
+ห้องสมุดต้นทาง ผู้ใช้ต้องทำการยืมใหม่หากต้องการ
+
+# บริการเสนอซื้อหนังสือเข้าห้องสมุด Book Suggestion
+
+อยากอ่านเล่มนี้ แต่งบจะซื้อทุกเล่มคงไม่พอ ทำไงดี!  ก็ลองใช้บริการ Book Suggestion ของหอสมุด มธ. สิ! อยากให้ห้องสมุดซื้อเล่มไหนให้อ่าน ก็เสนอซื้อมาได้เลย! ให้บริการเฉพาะนักศึกษา บุคลากร อาจารย์ปัจจุบัน และสมาชิกห้องสมุดเท่านั้น หากหนังสือผ่านการพิจารณาและได้รับการจัดซื้อเรียบร้อยแล้ว ผู้เสนอซื้อจะเป็นผู้แรกที่ได้ยืมหนังสือเล่มนั้น ๆ ใช้บริการได้ที่ >> https://library.tu.ac.th/bbs/content/94_507
+
+# บริการยืมหนังสือจากเครือข่ายภายนอก
+
+หากไม่มีหนังสือที่ท่านต้องการให้บริการภายในหอสมุด มธ. ท่านสามารถยืมหนังสือระหว่างห้องสมุดภายนอกได้ โดยมีทั้งหมด 3 บริการ ได้แก่ TU-PULLINET, TU-THAIPUL, WorldShare ILL สามารถอ่านรายละเอียดและดาวน์โหลดคู่มือได้ที่ >> https://library.tu.ac.th/bbs/content/94_505
+
+ห้องสมุดในความร่วมมือ WALK-IN ยืมหนังสือได้! ไม่ต้องถือใบยืมระหว่างห้องสมุด: ยืมได้ 3 เล่ม/30 วัน/คน ต่ออายุได้ 1 ครั้ง (*ม.เชียงใหม่ ยืมได้ 5 เล่ม/30 วัน/คน) (**สถาบันพระปกเกล้า ต่ออายุไม่ได้
+
+วิธียืมหนังสือทางไปรษณีย์ บริการส่งหนังสือทางไปรษณีย์
+
+ค่าบริการมาตรฐาน กล่องที่ 1 เล่มแรก ราคา 80 บาท เล่มต่อไป + เพิ่ม 20 บาท / เล่ม ถ้า 1 กล่องใส่ไม่พอ กล่องที่ 2 ราคา 80 บาท เล่มต่อไป + เพิ่ม 20 บาท / เล่ม
+
+## ขั้นตอนการขอใช้บริการ
+
+1. ผู้ใช้แจ้งรายละเอียดหนังสือที่ต้องการให้ส่งทางไปรษณีย์ หรือแนบลิงก์ที่ค้นจากเว็บไซต์ห้องสมุด
+
+2. ผู้ใช้แจ้งชื่อ-นามสกุล ที่อยู่ และเบอร์โทรในการจัดส่ง
+
+3. เจ้าหน้าที่รับคำขอ และแจ้งราคาค่าส่ง หลังจากจัดเตรียมและแพ็คเสร็จแล้วทางไลน์
+
+4. ผู้ใช้ชำระค่าส่งที่ https://library.tu.ac.th/login เลือก My Library > Loans/ Renewal/ Reservation > Fines
+
+5. ผู้ใช้ส่งหลักฐานการชำระค่าส่งมาทางไลน์
+
+6. ผู้ใช้ตรวจสอบสถานะการจัดส่งได้ที่ https://digi.library.tu.ac.th/delivery/checkid.php โดยใส่ user ID
+
+หากยกเลิกคำขอหลังจากที่เจ้าหน้าที่ดำเนินการแล้ว หอสมุดฯ ขอสงวนสิทธิในการเก็บค่าบริการ กรณีหนังสือมีตัวเล่มขนาดใหญ่ ทางห้องสมุดจะคิดราคาเพิ่มตามน้ำหนักจริงโดยทางเจ้าหน้าที่ จะแจ้งให้ทราบอีกครั้ง กรณีที่มีการคิดราคาค่าจัดส่งเพิ่ม
+
+# บริการ ฐานข้อมูล & ทรัพยากรดิจิทัล
+
+## TUDC E-Book Collection
+
+หอสมุดฯ มี E-Book ให้บริการผ่าน TU Digital Collections โดยให้บริการเฉพาะนักศึกษา บุคลากร อาจารย์ ปัจจุบันของ มธ. เท่านั้น https://digital.library.tu.ac.th/tu_dc/frontend/Search/ShareResult/94586/?ctx_ver=Z39.88-2004&
+
+## ค้นหาเอกสารวิทยานิพนธ์ : https://digital.library.tu.ac.th/tu_dc/frontend/
+
+## หนังสือพิมพ์เก่า หนังสือพิมพ์ฉบับเก่าให้บริการเฉพาะนักศึกษาและบุคลากรของมหาวิทยาลัยธรรมศาสตร์เท่านั้น:
+
+https://digital.library.tu.ac.th/tu_dc/frontend/Search/index/collection:45
+
+## รวมฐานข้อมูลที่ให้สมุดให้บริการ: https://library.tu.ac.th/bbs/content/94_492
+
+## ฐานข้อมูลวารสารอิเล็กทรอนิกส์: https://library.tu.ac.th/bbs/content/94_623
+
+## ข้อสอบเก่า
+
+1. คณะนิติศาสตร์ Past Examination Repository, Faculty of Law (เฉพาะสมาชิก มธ.): https://digital.library.tu.ac.th/tu_dc/frontend/Search/index/collection:9
+
+2. คณะวิศวกรรมศาสตร์ Past Examination Repository, Faculty of Engineering (เฉพาะนักศึกษา คณะวิศวกรรมศาสตร์ มธ.): https://digital.library.tu.ac.th/tu_dc/frontend/Search/index/collection:38
+
+## คู่มือการพิมพ์วิทยานิพนธ์ มหาวิทยาลัยธรรมศาสตร์: https://library.tu.ac.th/bbs/content/94_628
+
+## บริการ Full Text Finder Service
+
+บริการค้นหาและจัดส่งเอกสารฉบับเต็ม หอสมุดฯ จะดำเนินการค้นหาและจัดส่งเอกสารให้แก่ท่านภายใน 1-3 วันทำการ โดยมีเงื่อนไขการให้บริการ ดังนี้
+
+1\. กรุณาทำการสืบค้นผ่านทางเว็บไซต์หอสมุดแห่งมหาวิทยาลัยธรรมศาสตร์: https://library.tu.ac.th/
+
+2\. เพื่อความรวดเร็วในการให้บริการ ขอความกรุณากรอกรายละเอียดของเอกสารที่ต้องการ ตัวอย่างดังต่อไปนี้
+
+3\. สำหรับขอบทความ: โปรดระบุ ชื่อบทความ, ชื่อผู้แต่ง, ชื่อวารสาร, ปีที่ตีพิมพ์, เล่มที่, หน้าที่, และลิงก์ที่พบแต่ไม่สามารถดาวน์โหลดได้
+
+4\. สำหรับ BookChapter (eBook): โปรดระบุ ชื่อบท, ชื่อหนังสือ, ชื่อผู้แต่ง, ปีพิมพ์, และลิงก์ที่พบแต่ไม่สามารถดาวน์โหลดได้
+
+5\. ให้บริการเฉพาะบทความวารสาร และ Book Chapter (eBook) เป็นรูปแบบอิเล็กทรอนิกส์ (ไม่รวมตัวเล่มของวารสารหรือหนังสือ)
+
+Go to Online form: https://uservice.library.tu.ac.th/u-services/
+
+## บริการ Freepik และ Flaticon
+
+### เงื่อนไขการให้บริการ Freepik และ Flaticon
+
+1\. สิทธิ์การใช้บริการ
+
+2\. เว็บไซต์ Freepik จำกัดการขอใช้งาน สูงสุด 5 ภาพ/ครั้ง
+
+3\. เว็บไซต์ Flaticon จำกัดการขอใช้งาน สูงสุด 5 ภาพ/ครั้ง
+
+4\. เจ้าหน้าที่จะจัดส่งรูปภาพ / Iconให้ทางอีเมล ภายใน 3 วันทำการ
+
+5\. ให้บริการเฉพาะ รูปภาพ / Icon ที่เป็น Premium เท่านั้น (รูปภาพ / Icon ที่ไม่ใช่ Premium สามารถดาวน์โหลดได้ด้วยตนเอง)
+
+6\. ใช้เพื่อวัตถุประสงค์ในการศึกษา หรือใช้งานส่วนบุคคลเท่านั้น สงวนสิทธิ์ในการใช้ในเชิงพาณิชย์
+
+7\. หากพบว่าใช้งานไม่ตรงตามเงื่อนไข ผู้ขอใช้งานจะต้องรับผิดชอบทุกกรณี
+
+8\. ให้บริการเฉพาะนักศึกษา อาจารย์ บุคลากร ปัจจุบันเท่านั้น
+
+### สามารถใช้บริการ Freepik และ Flaticon ได้ที่: https://uservice.library.tu.ac.th/u-services/
+
+## บริการตรวจบทคัดย่อภาษาอังกฤษ
+
+บริการตรวจบทคัดย่อภาษาอังกฤษสำหรับนักศึกษา อาจารย์ และบุคลากรมหาวิทยาลัยธรรมศาสตร์ฟรี โดยผู้ใช้บริการสามารถกรอกข้อมูลและอัพโหลดไฟล์บทคัดย่อผ่านหน้าเว็บไซต์ เพื่อให้ผู้เชี่ยวชาญภาษาอังกฤษตรวจแก้ จากนั้นผู้ใช้บริการจะได้รับบทคัดย่อที่ตรวจแก้แล้วทางอีเมลภายใน 3 วันทำการ สามารถใช้บริการ ได้ที่ : https://uservice.library.tu.ac.th/u-services/
+
+## บริการ Personal consultant
+
+Here to Help บริการ Personal consultant จากหอสมุด มธ. ที่ช่วยให้คำปรึกษาตั้งแต่บริการต่าง ๆ ของห้องสมุด ไปจนถึงการใช้เครื่องมือสนับสนุนการทำวิจัย เช่น การให้คำปรึกษาเรื่องการค้นข้อมูล การทำรายการอ้างอิง บริการตรวจสอบการคัดลอก รวมถึงการส่งไฟล์วิทยานิพนธ์ในระบบ เป็นต้น ให้บริการผ่านโปรแกรม MS Teams หรือ Zoom วันจันทร์-ศุกร์ เวลา 9.00-17.00 น. สามารถเลือกหัวข้อที่ต้องการให้คำปรึกษา (เลือกได้ไม่เกิน 2 หัวข้อ/ครั้ง) *
+
+1\. Using the library ex. Renew | ILL | Pay fine and other services (1 hr.)
+
+2\. Online Searching | เทคนิคการค้นหาข้อมูลจากฐานข้อมูลต่างๆ (1 hr.)
+
+3\. Off-Campus access | การใช้ทรัพยากรจากนอกเครือข่ายมหาวิทยาลัย (30 mins)
+
+4\. How to referencing | ให้คำปรึกษาการอ้างอิงในรูปแบบต่างๆ (1 hr.)
+
+5\. Turnitin | การตรวจสอบการคัดลอกงานวิจัย (1 hr.)
+
+6\. TU E-Thesis | ระบบบริหารจัดการวิทยานิพนธ์ (1 hr.)
+
+7\. Thesis Format | การจัดรูปแบบวิทยานิพนธ์ (1 hr.)
+
+8\. Endnote for Windows | โปรแกรมสำหรับช่วยจัดการบรรณานุกรม (Windows OS) (1.5 hrs.)
+
+9\. Endnote for Mac | โปรแกรมสำหรับช่วยจัดการบรรณานุกรม (Mac OS) (1.5 hrs.)
+
+10\. Scholarly Journals | แนะนำวารสารวิชาการเพื่อการตีพิมพ์ และตรวจสอบ Rankings (30 mins)
+
+11\. Other | อื่นๆ
+
+### สามารถใช้บริการ Personal consultant ได้ที่ : https://uservice.library.tu.ac.th/u-services/
+
+### บริการตรวจสอบการคัดลอกด้วย Turnitin
+
+Turnitin คือ เครื่องมือในการตรวจสอบการคัดลอกผลงานทางวิชาการ เช่น บทความ งานวิจัย หรือวิทยานิพนธ์ รวมทั้งผลงานทางวิชาการทุกประเภท โดยเปรียบเทียบกับคลังข้อมูลของ Turnitin และคลังข้อมูลจากมหาวิทยาลัยทั่วโลก รวมถึงข้อมูลที่เผยแพร่บนอินเตอร์เน็ต เพื่อประโยชน์ในการตรวจสอบและพัฒนาผลงานทางวิชาการให้สมบูรณ์ ก่อนตีพิมพ์หรือเผยแพร่สู่สาธารณะ นักศึกษา อาจารย์ และบุคลากรของมหาวิทยาลัยธรรมศาสตร์ ใช้บริการได้ 3 วิธี ดังนี้
+
+วิธีที่ 1. ส่งไฟล์ให้ห้องสมุดดำเนินการให้ (รับผลทาง e-mail ภายใน 3 วันทำการ) Paper หรือไฟล์งานที่เป็นภาษาอังกฤษ สามารถตรวจจับ AI ได้ หากมีผลตรวจ AI ขึ้นเจ้าหน้าที่จะส่งผลตรวจ AI ไปพร้อมกับผลการตรวจ Plagiarism
+
+1.1\. เข้าสู่ระบบ U-Services : https://uservice.library.tu.ac.th/u-services/
+
+1.2\. เลือกเมนู Plagiarism Checking Service
+
+1.3\. กรอกข้อมูลส่วนตัว และอัพโหลดไฟล์
+
+1.5\. รับผลการตรวจสอบการคัดลอก (Similarity Report) ทาง e-mail ภายใน 3 วันทำการ (ไม่รวมวันเสาร์-อาทิตย์ และวันหยุดนักขัตฤกษ์)
+
+1.6\. กรณีต้องการตรวจงานเขียนด้วย AI Turnitin จะตรวจได้เฉพาะไฟล์ภาษาอังกฤษเท่านั้น
+
+วิธีที่ 2. สมัครบัญชี Turnitin เพื่อส่งไฟล์ด้วยตนเอง (ทราบผลภายใน 5-15 นาที) ไม่สามารตรวจ AI ได้
+
+2.1\. เข้าสู่ระบบ U-Services: https://uservice.library.tu.ac.th/u-services/
+
+เลือกเมนู Turnitin เพื่อขอรับ Class ID / Enrollment Key ของห้องสมุด (คลาสหมดอายุทุกวันที่ 31 สิงหาคมของทุกปี โดยขอใหม่ได้ที่เมนูนี้)
+
+2.2\. เข้าเว็บไซต์ turnitin.com เพื่อสมัครบัญชีประเภท Student
+
+2.3\. กรอก Class ID/Enrollment Key ของห้องสมุด จากนั้นกรอกข้อมูลส่วนตัวเพื่อสมัครสมาชิก
+
+(กรณีเคยมีบัญชี Turnitin หรือคลาสเดิมหมดอายุ ให้คลิก Enroll in a Class และกรอก Class ID / Enrollment Key ที่ได้รับจากห้องสมุดหรืออาจารย์)
+
+2.4\. อัพโหลดไฟล์ และรอผลการตรวจสอบการคัดลอก (Similarity Report) ภายใน 5-15 นาที
+
+2.5\. คู่มือการใช้งานสำหรับนักศึกษา: https://library.tu.ac.th/uload/userfiles/files/TURNITIN_update04-2024.pdf
+
+2.6\. การใช้งานในวิธีที่ 2 จะไม่สามารถตรวจสอบเขียนจาก AI ได้
+
+วิธีที่ 3 : เปิดใช้บัญชี Turnitin ประเภท Instructor (สำหรับอาจารย์ และนักวิจัย มธ. เท่านั้น)
+
+3.1\. แจ้งชื่อ-นามสกุล (ภาษาอังกฤษ) / คณะที่สังกัด และอีเมลของมหาวิทยาลัย (หรืออีเมลคณะ) มาที่อีเมล Tulib.plagiarism@gmail.com
+
+3.2\. รอรับอีเมลจาก Turnitin เพื่อตั้งค่าบัญชีใหม่
+
+3.3\. ตั้งค่า Class / Assignment โดยดูวิธีตั้งค่าต่าง ๆ ได้จากคู่มือการใช้งาน
+
+3.4\. คู่มือการใช้งาน Turnitin (ประเภท Instructor): https://library.tu.ac.th/uload/userfiles/files/Turnitin_Instructor_Updated2024.pdf
+
+### บริการ Journal metric
+
+Journal Impact Factor (JIF) คือ ค่าดัชนีวารสารที่วัดจำนวนครั้งโดยเฉลี่ย ที่บทความของวารสารชื่อนั้นจะได้รับการอ้างอิงในแต่ละปี ใช้ข้อมูลย้อนหลัง 2 และ 5 ปีล่าสุด มักถูกใช้เพื่อประเมินคุณภาพวารสาร เปรียบเทียบ และ จัดอันดับวารสาร (Journal Ranking) ช่วยประกอบการพิจารณาตัดสินใจเลือกวารสารเพื่อการตีพิมพ์ผลงานวิชาการของนักวิจัย
+
+Rank by Journal Impact Factor (JIF Quartile) เป็นค่าวัดระดับวารสารวิชาการในแต่ละสาขาวิชา (Subject Categories) ค่า Q จะหมายถึง Quartile score ของวารสารในแต่ละสาขาวิชา ซึ่งแบ่งออกได้เป็น 4 ช่วง ตามด้านล่างนี้ ทั้งนี้ตัวชี้วัดนี้สามารถนำไปเปรียบเทียบวารสารที่ต่างสาขากันได้
+
+Q1 = top position (the highest 25% of data) เป็นกลุ่มวารสารที่มีคุณภาพดีที่สุดในสาขานี้
+
+Q2 = middle-high position (อยู่ระหว่าง top 50% และ top 25%) เป็นกลุ่มวารสารที่มีคุณภาพในระดับที่ 2 ของสาขานี้
+
+Q3 = middle-low position (อยู่ระหว่าง top 75% และ top 50%) เป็นกลุ่มวารสารที่ที่มีคุณภาพในระดับที่ 3 ของสาขานี้
+
+Q4 = bottom position (bottom 25%) เป็นกลุ่มวารสารที่มีคุณภาพในระดับต่ำที่สุดในสาขานี้
+
+SCImago Journal Rank (SJR) ตัวชี้วัดจัดอันดับวารสารโดยอาศัยข้อมูลบทความวารสารและจำนวนการอ้างอิงจากฐานข้อมูล Scopus ของบริษัท Elsevier โดยคำนวณจากจำนวนการอ้างอิงทั้งหมดที่วารสารได้รับในปีปัจจุบันหารด้วยจำนวนบทความที่ตีพิมพ์ไปแล้วในระยะ 3 ปี โดยคัดเลือกบทความและการอ้างอิงบทความที่ได้รับจากเอกสารที่มี Peer review เท่านั้น
+
+#### สามารถใช้บริการ Journal metric ได้ที่: https://uservice.library.tu.ac.th/u-services/
+
+### บริการ The Economist
+
+The Economist คือหนังสือพิมพ์ออนไลน์รายสัปดาห์ ที่หยิบยกเหตุการณ์น่าสนใจในปัจจุบัน ไม่ว่าจะเป็นธุรกิจระหว่างประเทศ การเมือง และเทคโนโลยี มานำเสนอ ราวกับว่าได้ฟังคนเก่งระดับปริญญาเอกมาคุยเรื่องต่าง ๆ ให้ฟังกันเลยทีเดียว
+
+อ่านฉบับล่าสุด : https://econ.st/3Q7eVFE
+
+อ่านฉบับย้อนหลัง : https://econ.st/3Q4BhJ8
+
+ให้บริการเฉพาะนักศึกษาคณะเศรษฐศาสตร์ / คณะพาณิชยศาสตร์ฯ และวิทยาลัยสหวิทยาการ สามารถขอรับ Username/Password เพื่ออ่านเต็มรูปแบบได้ที่ U-Services > เมนู The Economist : https://uservice.library.tu.ac.th/u-services/
+
+### บริการฐานข้อมูล Financial Times: https://uservice.library.tu.ac.th/u-services/
+
+Financial Times หนังสือพิมพ์รายวันที่พิมพ์เผยแพร่ทางดิจิทัลที่เน้นเรื่องธุรกิจและเศรษฐกิจ การเงินและการวิเคราะห์ทางเศรษฐศาสตร์มากกว่าการรายงานทั่วไป ในปัจจุบัน สามารถเข้าใช้บริการได้ที่: https://uservice.library.tu.ac.th/u-services/
+
+### บริการฐานข้อมูล REIC: https://uservice.library.tu.ac.th/u-services/
+
+ศูนย์กลางข้อมูลด้านอสังหาริมทรัพย์ของประเทศที่ได้รับการยอมรับในระดับสากล ดำเนินการด้านข้อมูล การวิเคราะห์วิจัย การพยากรณ์ธุรกิจ ให้บริการเฉพาะนักศึกษาคณะคณะพาณิชยศาสตร์ฯ และวิทยาลัยสหวิทยาการ สามารถขอรับ Username/Password เพื่ออ่านเต็มรูปแบบได้ที่ U-Services > เมนู REIC : https://uservice.library.tu.ac.th/u-services/
+
+### บริการฐานข้อมูล CorpusX: https://uservice.library.tu.ac.th/u-services/
+
+ฐานข้อมูล CorpusX ให้บริการสำหรับนักศึกษา บุคลากรคณะพาณิชยศาสตร์และการบัญชี สามารถใช้งานได้ที่ U-Services > เมนู /
+
+### บริการฐานข้อมูล Terrabyte: https://uservice.library.tu.ac.th/u-services/
+
+ฐานข้อมูลทางด้านอสังหาริมทรัพย์ในประเทศไทย ให้ข้อมูลเกี่ยวกับ Supply & Demand ของลูกค้าในกรุงเทพและปริมณฑล แบบ Real time ที่แสดงผลข้อมูลแบบ Interactive chart จำกัดการใช้งานเฉพาะนักศึกษา อาจารย์ และบุคลากร คณะพาณิชยศาสตร์และการบัญชี สามารถใช้งานได้ที่ U-Services > เมนู Terrabyte : https://uservice.library.tu.ac.th/u-services/
+
+## บริการฐานข้อมูลออนไลน์ของหอสมุดแห่งมหาวิทยาลัยธรรมศาสตร์
+
+### บริการ TACT online : https://uservice.library.tu.ac.th/u-services/
+
+ข้อมูลอุตสาหกรรมด้านการขนส่งสินค้าทางอากาศ อัตราภาษี กฎ ระเบียบข้อบังคับ และตารางการขนส่งสินค้าทางอากาศ เพื่อติดตามกิจกรรมทางการตลาดโดยไม่ต้องติดต่อแต่ละสายการบิน ตัวแทนจัดการ หรือผู้ดำเนินการสนามบิน จำกัดการใช้งานเฉพาะนักศึกษา อาจารย์ และบุคลากร คณะพาณิชยศาสตร์และการบัญชี สามารถใช้งานได้ที่ U-Services > เมนู TACT online :  https://uservice.library.tu.ac.th/u-services/
+
+### บริการฐานข้อมูล CBRE: https://library.tu.ac.th/bbs/content/94_492
+
+CBRE provides comprehensive information and insights about the real estate market. It includes data on property listings, transactions, leasing, market trends, property valuations, market reports, and various other real estate-related information.
+
+### บริการฐานข้อมูล UpToDate: https://library.tu.ac.th/bbs/content/94_492
+
+UpToDate® is an evidence-based, physician-authored clinical decision support resource which clinicians trust to make the right point-of-care decisions. More than 6,300 world-renowned physician authors, editors, and peer reviewers use a rigorous editorial process to synthesize the most recent medical information into trusted, evidence-based recommendations that are proven to improve patient care and quality.
+
+### บริการวารสาร The wall street Journal: https://uservice.library.tu.ac.th/u-services/
+
+The wall street Journal หนังสือพิมพ์รายวันภาษาอังกฤษระหว่างประเทศที่มุ่งเน้นธุรกิจของอเมริกาซึ่งตั้งอยู่ในนิวยอร์กซิตี้โดยมีฉบับภาษาต่างประเทศให้บริการในภาษาจีนและภาษาญี่ปุ่นด้วยได้รับการตีพิมพ์ในรูปแบบแผ่นพับและทางออนไลน์ สามารถใช้บริการ The wall street Journal ได้ที่: https://uservice.library.tu.ac.th/u-services/WSJ/?lang=TH&token=12c18bbd6b91cdbf934a9eae556af3e3588fb038be04c35e
+
+### บริการวารสาร Lloyd's List Maritime and Commercial Law: https://uservice.library.tu.ac.th/u-services/
+
+Lloyd's List Maritime and Commercial Law Quarterly (LMCLQ) is a legal journal published by Lloyd's List Intelligence that publishes articles relating to commercial law and shipping law.  สามารถใช้บริการ ได้ที่: https://uservice.library.tu.ac.th/u-services/Lloyd/?lang=TH&token=12c18bbd6b91cdbf934a9eae556af3e3588fb038be04c35e
+
+### บริการ E-journals subscribed by tulib: https://library.tu.ac.th/bbs/content/94_560
+
+E-journals subscribed by Thammasat University Library. https://library.tu.ac.th/bbs/content/94_560
+
+### บริการฐานข้อมูล Accessmedicine: https://library.tu.ac.th/bbs/content/94_492
+
+AccessMedicine provides medical students with a variety of resources needed to excel in basic science studies and clerkships; helps residents, nurse practitioners, and physician assistants with instant access to videos, self-assessment, and leading medical textbooks that facilitate decision-making at the point-of-care; enables faculty to create, track, and report their students’ progress through a curriculum tool that eases workflow; and allows practicing physicians to brush up on their medical knowledge to ensure the best patient outcome.
+
+https://accessmedicine.mhmedical.com/
+
+### บริการฐานข้อมูล Accesspharmacy: https://library.tu.ac.th/bbs/content/94_492
+
+AccessPharmacy from McGraw-Hill Medical is designed to meet the changing demands of pharmacy education and practice today. Updated regularly and optimized for viewing on any device, this comprehensive, content-rich online pharmacy resource allows users to explore leading pharmacy references, search curriculum topics, research drugs and supplements.
+
+### บริการฐานข้อมูล Acm digital library: https://library.tu.ac.th/bbs/content/94_492
+
+The ACM Digital Library is a research, discovery and networking platform containing: The Full-Text Collection of all ACM publications, including journals, conference proceedings, technical magazines, newsletters and books. A collection of curated and hosted full-text publications from select publishers. The ACM Guide to Computing Literature, a comprehensive bibliographic database focused exclusively on the field of computing. A richly interlinked set of connections among authors, works, institutions, and specialized communities.
+
+### บริการฐานข้อมูล Agial: open access journals: https://library.tu.ac.th/bbs/content/94_492
+
+AgiAl Publishing House is a fast-growing yet professional academic open access publisher founded in 2012. We take pride in our vast experience in the publication process of multidisciplinary scientific, technical, and medical journals. The mission of AgiAl is to maximize the dissemination of knowledge through its commitment to providing high-quality, rapid services at competitive prices.
+
+### บริการฐานข้อมูล AIS ELIBRARY: https://library.tu.ac.th/bbs/content/94_492
+
+AIS eLibrary is one of the most comprehensive and extensive electronic libraries in the field of information systems with is provide more than 40,000 articles.
+
+### บริการฐานข้อมูล American chemical society journal (acs): https://library.tu.ac.th/bbs/content/94_492
+
+ACS Publications stands alongside Chemical Abstracts Services in supporting the American Chemical Society's goal to be the most authoritative, comprehensive, and indispensable provider of chemistry-related information, in keeping with the ACS's Vision of Improving People's Lives Through the Transforming Power of Chemistry.
+
+### บริการฐานข้อมูล Asian Real Estate Society: https://library.tu.ac.th/bbs/content/94_492
+
+Asian Real Estate Society offers a great opportunity for anyone who would like to learn more about Asian real estate markets and to interact with real estate educators and professionals in Asia
+
+### บริการฐานข้อมูล ASCE: https://library.tu.ac.th/bbs/content/94_492
+
+ASCE'S Electronic Information Retrieval Service to All Its Publications Published since 1970. The CEDB Provides Access to over 100,000 Bibliographic and Abstracted Records - Current Coverage: 1970 - Present.
+
+### บริการฐานข้อมูล ASTSU: https://library.tu.ac.th/bbs/content/94_492
+
+Applied Science & Technology Source Ultimate (ASTSU) แหล่งข้อมูลฉบับเต็มชั้นนำสำหรับการศึกษาด้านคอมพิวเตอร์ เทคโนโลยี และวิทยาศาสตร์ประยุกต์ พัฒนาขึ้นเพื่อสนับสนุนความสำเร็จให้แก่นักศึกษา และนักวิจัยในสาขาต่างๆที่เกี่ยวข้อง ครอบคลุมสาขาวิชาวิทยาศาสตร์เทคโนโลยี วิศวกรรมศาสตร์คอมพิวเตอร์ และเทคโนโลยีคอมพิวเตอร์ ครอบคลุมเนื้อหาตั้งแต่ปี 1909 จนถึงปัจจุบัน มีการเก็บรวบรวมข้อมูลความท้าทายทางวิศวกรรมแบบดั้งเดิมและงานวิจัย และเป็นทรัพยากรเพื่องานวิจัยที่ส่งผลกระทบทางธุรกิจและสังคมของเทคโนโลยีใหม่
+
+### บริการฐานข้อมูล Berg fashion library: https://library.tu.ac.th/bbs/content/94_492
+
+The Berg Fashion Library is a unique online portal which offers fully cross-searchable access to an expanding range of Berg content collections – including the Berg Encyclopedia of World Dress and Fashion online, e-books, reference works, images, and much more.
+
+### บริการฐานข้อมูล Bloomsbury collections: https://library.tu.ac.th/bbs/content/94_492
+
+Bloomsbury Collections delivers instant access to quality research and provides libraries with a flexible way to build eBook collections across the humanities and social sciences. It contains over 6,000 titles (Only TU library subscription), featuring content from Bloomsbury’s latest research publications as well as a 100+ year legacy including Continuum, T&T Clark, Bristol Classical Press, Berg, The Arden Shakespeare and Hart Publishing.
+
+### บริการฐานข้อมูล Bmj journals: https://library.tu.ac.th/bbs/content/94_492
+	BMJ journals provide high quality content for health professionals and researchers across the world. The collection also includes some of the most influential specialty journals in their field.
+
+### บริการฐานข้อมูล Bmj open access: https://library.tu.ac.th/bbs/content/94_492
+
+BMJ publishes a number of fully Open Access titles from BMJ Open, our first fully Open Access journal, to 10+ specialty Open Access titles.
+
+### บริการฐานข้อมูล Bookdose path: https://auth.bookdosepath.com/TU/login
+
+ฐานข้อมูลหนังสืออิเล็กทรอนิกส์ (e-Books) ภาษาไทย จำนวน 800+ ชื่อเรื่อง จากสำนักพิมพ์ชั้นนำกว่า 30 สำนักพิมพ์ สามารถใช้งานได้ทั้งบนเว็บไซต์ และ Application (iOS/Android)
+
+#### วิธีการใช้งาน
+
+- นักศึกษา Log in ด้วย อีเมลชุดเดียวกับที่ใช้ขึ้นทะเบียนนักศึกษา ในเว็บไซต์ของสำนักทะเบียน รหัสผ่าน Bookdose2024 ครั้งแรก จากนั้นสามารถทำการเปลี่ยนรหัสผ่านได้ด้วยตนเอง
+
+- อาจารย์และบุคลากร ประสงค์ใช้งาน ให้แจ้งข้อมูลชื่อ-สกุล อีเมล TU หรืออีเมลคณะที่ท่านสังกัดเพื่อเพิ่มข้อมูลเข้าระบบสมาชิกสามารถติดต่อที่ไลน์แอด @tuliblifeonline กรณีที่เคยเพิ่มชื่อแล้วเข้าด้วยรหัสผ่าน Bookdose2024 ครั้งแรก จากนั้นสามารถทำการเปลี่ยนรหัสผ่านได้ด้วยตนเอง
+
+- หากพบปัญหาการใช้งานสามารถติดต่อได้ในช่องทางไลน์แอด Line: TULIB LifeONLine: @ Https://lin.ee/bdwYsr1
+
+- นักศึกษาปัจจุบัน สามารถเข้าสู่ระบบได้ดังนี้ Username: E-mail (ชุดเดียวกับที่ใช้ขึ้นทะเบียนนักศึกษา ในเว็บไซต์ของสำนักทะเบียน) Password: Bookdose2024
+
+** หลังจากเข้าสู่ระบบแล้ว สามารถเข้าไปเปลี่ยนรหัสผ่านภายหลังได้ **
+
+** การใช้งานยืมหนังสือ: ยืมได้ครั้งละ 3 เล่ม เล่มละ 5 วัน
+
+** หากครบกำหนดคืน ระบบจะทำการคืนให้อัตโนมัติ
+
+** สำหรับอาจารย์และบุคลากร หากประสงค์ใช้งาน ให้แจ้งข้อมูลชื่อ-สกุล อีเมล TU หรืออีเมลคณะที่ท่านสังกัด ที่ไลน์แอด @tuliblifeonline เพื่อเพิ่มข้อมูลเข้าระบบสมาชิก
+
+** วิดีโอแนะนำการใช้งาน: https://www.youtube.com/watch?v=is1u-v2LIbw
+
+** คู่มือการใช้งาน: https://drive.google.com/file/d/1qOjOTeek2Hb51dVPaUVk1vsm2vMTOsue/view
+
+### บริการฐานข้อมูล Brill: https://library.tu.ac.th/bbs/content/94_492
+
+Brill’s publications focus on the Humanities and Social Sciences, International Law and selected areas in the Sciences. Brill publications also include the imprints Brill | Nijhoff, Brill | Rodopi, Brill | Hes & De Graaf and Hotei Publishing. Brill has developed distinctive platforms for its online resources.
+
+### บริการฐานข้อมูล British pharmacopoeia: https://library.tu.ac.th/bbs/content/94_492
+
+British Pharmacopoeia makes an important contribution to the role of the Medicines and Healthcare products Regulatory Agency (MHRA) in protecting public health by providing quality standards for UK pharmaceutical substances and medicinal products.
+
+### บริการฐานข้อมูล Business source ultimate: https://library.tu.ac.th/bbs/content/94_492
+
+With premium full-text content and peer-reviewed business journals, this database is the essential tool for business students. It covers all disciplines of business, including marketing, management, accounting, banking, finance, and more. Indexing and abstracts and full text are available back as far as 1886.
+
+### บริการฐานข้อมูล Cambridge core: https://library.tu.ac.th/bbs/content/94_492
+
+In line with the commitment of Cambridge University Press to advance learning, knowledge and research worldwide, the Press currently publishes over 200 peer-reviewed academic journals for the global market. Containing the latest research from a broad sweep of subject areas.
+
+### บริการฐานข้อมูล CBRE: https://library.tu.ac.th/bbs/content/94_492
+
+CBRE provides comprehensive information and insights about the real estate market. It includes data on property listings, transactions, leasing, market trends, property valuations, market reports, and various other real estate-related information.
+
+*** Available for students, professors of the Faculty of Commerce and Accountancy.
+
+*** Please log out after each use. Exceeding the usage limits may prevent other users from accessing the service.
+
+*** Request Username and Password.: https://uservice.library.tu.ac.th/u-services/
+
+### บริการฐานข้อมูล CEIC: https://library.tu.ac.th/bbs/content/94_492
+
+CEIC's product suite combined with it's cutting edge CDMNext platform enable you to seamlessly integrate more than 7.3 million macroeconomic time series, covering more than 213 economies,20 industries and 18 macroeconomic sectors - compiled from 2,200 sources worldwide into your workflow. Allow you to effortlessly compare global markets as well as zero in on the deepest emerging markets data available.
+
+*** Available for students, professors, researchers and staffs of the Faculty of Economics. Available in the computer lab of the Faculty of Economics or Puey Ungphakorn Library (Tha Prachan Campus), or access via VDI using the instructions below.
+
+Manual & Guide : Installing and using the VDI system for economics program: https://library.tu.ac.th/uload/userfiles/files/02_Manual%20&%20Guide%20Installing%20and%20using%20the%20VDI%20system%20for%20economics%20program.pdf
+
+Manual & Guide : Using the CEIC database from home: https://library.tu.ac.th/uload/userfiles/files/01_Manual%20%26%20Guide%20Using%20the%20CEIC%20database%20from%20home.pdf
+
+Start GUIDE CEIC Database: https://library.tu.ac.th/uload/userfiles/files/03_start%20GUIDE%20CEIC%20Database%20v5_4_2022.pdf
+
+CEIC Math Functions guide: https://library.tu.ac.th//uload/userfiles/files/04_CEIC%20Math%20Functions%20guide.pdf
+
+### บริการฐานข้อมูล China knowledge resource integrated (cnki): https://library.tu.ac.th/bbs/content/94_492
+
+China National Knowledge Infrastructure Dedicated to the mass digitalization of China knowledge resources, as well as creating the platform for global dissemination and value-added services, Started and first launched in June 1999 by Tsinghua University and Tsinghua Tongfang Holding Group, Supported by Education Ministry, Science and Technology Ministry, Propaganda Ministry and General Administration of Press and Publications. Remark Go to URL > Select Thammasat University > Go
+
+### บริการฐานข้อมูล Cinahl complete: https://library.tu.ac.th/bbs/content/94_492
+
+CINAHL Complete is the world’s most comprehensive source of full-text for nursing & allied health journals, providing full text for more than 1,300 journals indexed in CINAHL. This authoritative file contains full text for many of the most used journals in the CINAHL index, with no embargo. CINAHL Complete is the definitive research tool for all areas of nursing & allied health literature.
+
+### บริการฐานข้อมูล Clinicalkey: https://library.tu.ac.th/bbs/content/94_492
+
+ClinicalKey contains full text content from Elsevier e- journals more than 600 titles, over 1000 top books and current evidence databases including First Consult, Procedures Consult and also thousands of videos and millions of images.
+
+### บริการฐานข้อมูล Cochrane library: https://library.tu.ac.th/bbs/content/94_492
+
+The Cochrane Library is a collection of six databases that contain different types of high-quality, independent evidence to inform healthcare decision-making, and a seventh database that provides information about Cochrane groups.
+
+### บริการฐานข้อมูล Dart europe: https://library.tu.ac.th/bbs/content/94_492
+
+DART-Europe is a partnership of research libraries and library consortia who are working together to improve global access to European research theses. DART-Europe is endorsed by LIBER (Ligue des Bibliothèques Européennes de Recherche), and it is the European Working Group of the  Networked Digital Library of Theses and Dissertations (NDLTD).
+
+### บริการฐานข้อมูล Directory of open access journals (doaj): https://library.tu.ac.th/bbs/content/94_492
+
+DOAJ is a community-curated online directory that indexes and provides access to high quality, open access, peer-reviewed journals.
+
+### บริการฐานข้อมูล Dissertations.se: https://library.tu.ac.th/bbs/content/94_492
+
+Dissertations.se lets you search among university dissertations from Sweden, written in English. At the moment there are 59111 finished dissertations in the database - and about half of these are available for download as PDF.
+
+Note: Dissertations.se is the english language version of
+
+Avhandlingar.se
+
+### บริการฐานข้อมูล Diva portal: https://library.tu.ac.th/bbs/content/94_492
+
+DiVA - Academic Archive On - line, is a publishing system for research and student theses and a digital archive for long - term preservation of publications. DiVA began its development in the year 2000 at the EPC at Uppsala University Library. Today the technical development is driven by the EPC in co-operation with the participating universities and colleges. All universities and publicly financed research institutions both in Sweden and abroad are welcome to join DiVA in its co-operative effort. The research publications and student theses found in DiVA portal have been published and registered at the university or college of origin. There is bibliographic information in the database for every title and usually an abstract and a link to the full text at the university or college where it was published.
+
+### บริการฐานข้อมูล EBSCO Discovery Service: https://library.tu.ac.th/bbs/content/94_492
+
+EBSCO Discovery Service is the most-used, premium online information resources for tens of thousands of institutions worldwide, representing millions of end users.
+
+### บริการฐานข้อมูล EBSCO OPEN DISSERTATIONS™: https://library.tu.ac.th/bbs/content/94_492
+
+OpenDissertations.org is a collaboration between EBSCO and BiblioLabs that brings an innovative approach to increasing traffic and discoverability of ETD research. This new collaboration extends the work started in 2014, when EBSCO and the H.W. Wilson Foundation created American Doctoral Dissertations which contained indexing from the H.W. Wilson print publication, Doctoral Dissertations Accepted by American Universities, 1933-1955. In 2015, the H.W. Wilson Foundation agreed to support the expansion of the scope of the American Doctoral Dissertations database to include records for dissertations and theses from 1955 to the present.
+
+### บริการฐานข้อมูล Econlit with full text: https://library.tu.ac.th/bbs/content/94_492
+
+As the most reliable full-text source for economic research, this database offers full text for hundreds of journals including the American Economic Association journals with no embargo. In addition to extensive full-text coverage, the database contains indexing and abstracts for economic journals.
+
+### บริการฐานข้อมูล Education source: https://library.tu.ac.th/bbs/content/94_492
+
+Education Source is a valuable full-text database covering all levels of education research and specialities such as multilingual education, health education and testing. With access to 1,217 active full-text education journals
+
+### บริการฐานข้อมูล Eikon & datastream: https://library.tu.ac.th/bbs/content/94_492
+
+Eikon & Datastream: The database of financial time series which is loaded with 65 years of information, across all major asset classes. Discover, analyze and connect to the range of data sets and content. (Available for students and professors of the Faculty of Commerce and Accountancy. Available in the computer lab of the Faculty of Commerce and Accountancy, or access via VPN using the instructions below.)
+
+### บริการฐานข้อมูล Eldis conflict: https://library.tu.ac.th/bbs/content/94_492
+
+Eldis Conflict is an online information service providing free access to relevant, up-to-date and diverse research on international development issues. The database includes over 40,000 summaries and provides free links to full-text research and policy documents from over 8,000 publishers.
+
+### บริการฐานข้อมูล Elgaronline: https://library.tu.ac.th/bbs/content/94_492
+
+The content platform for Edward Elgar Publishing's journals, reference works and books, including scholarly monographs, Research Handbooks, companions and more.
+
+### บริการฐานข้อมูล Elsevier open access journals: https://library.tu.ac.th/bbs/content/94_492
+
+All articles in open access journals which are published by Elsevier have undergone peer review and upon acceptance are immediately and permanently free for everyone to read and download.
+
+### บริการฐานข้อมูล Emerald management: https://library.tu.ac.th/bbs/content/94_492
+
+Emerald is a global publisher linking research and practice to the benefit of society. Founded in 1967, Emerald today manages a range of digital products, contains over 200 journals, books and case studies.
+
+### บริการฐานข้อมูล Encyclopedia of adolescence: https://library.tu.ac.th/bbs/content/94_492
+
+The period of adolescence involves growth, adaptation, and dramatic reorganization in almost every aspect of social and psychological development. The Encyclopedia of Adolescence offers an exhaustive and comprehensive review of current theory and research findings pertaining to this critical decade of life. Leading scientists offer accessible and easily readable reviews of biological, social, educational, occupational, and cultural factors that shape adolescent development. Issues in normative development, individual differences, and psychopathology/maladjustment are reviewed. Over 130 chapters are included, each covering a specific aspect or issue of adolescence. The chapters trace differences in the course of adolescence in different nations and among youth with different backgrounds.
+
+The encyclopedia brings together cross-disciplinary contributors, including academic researchers, biologists, psychiatrists, sociologists, anthropologists and public policy experts, and will include authors from around the world. Each article features an in-depth analysis of current information on the topic, along with a glossary, suggested readings for further information, and cross-references to related encyclopedia articles. The volumes offer an unprecedented resource for all audiences, providing a more comprehensive understanding of general topics compared to other reference works on the subject.
+
+### บริการฐานข้อมูล Encyclopedia of creativity: https://library.tu.ac.th/bbs/content/94_492
+
+The first edition of the successful Encyclopedia of Creativity served to establish the study of creativity is a field in itself. Now completely updated and revised in its second edition, coverage encompasses the definition of creativity, the development and expression of creativity across the lifespan, the environmental conditions that encourage or discourage creativity, creativity within specific disciplines like music, dance, film, art, literature, etc., the relationship of creativity and mental health, intelligence, and learning styles, and the process of being creative. This reference also appeals to a lay audience with articles specifically on the application of creativity to business settings.
+
+### บริการฐานข้อมูล Encyclopedia of emerging markets: https://library.tu.ac.th/bbs/content/94_492
+
+The Encyclopedia of Emerging Markets is a new Gale business encyclopedia providing custom-written articles offering rare insight into nations with social or business activity in the process of rapid growth and industrialization, as well as highlighting key emerging industries within those economies. The work consists of detailed essays covering 33 nations that can be classified as emerging markets, as well as highlighting 1-3 industry profiles under each nation. Each profile includes an overview snapshot, the market’s or industry’s organization and structure, its history and development, trends and long-term outlook, and a bibliography for further reading.
+
+### บริการฐานข้อมูล Encyclopedia of globalization: https://library.tu.ac.th/bbs/content/94_492
+
+Encyclopedia of Globalization contains over 600 entries on the essential topics of Globalization, Offers clear and concise explanations of the key concepts of Globalization, and includes entries on concepts derived from across the social sciences, from sociology and anthropology to political science, economics, and human geography.
+
+### บริการฐานข้อมูล Encyclopedia of sports medicine: https://library.tu.ac.th/bbs/content/94_492
+
+With an ever-growing variety of sports and exercise opportunities open to people of all ages, classes, and races, participation in casual sports has blossomed in recent decades, while interest in collegiate and professional sports has continued to soar. The field of sports medicine is thriving in response to the demand for health care professionals to care for people involved in vigorous exercise. Now more than ever, it is imperative that doctors, physical therapists, surgeons, nurses, and alternative medicine practitioners understand and are able to treat effectively the types of conditions stemming from all types of physical activity, ranging from pleasure walking to professional football. Presenting state-of-the-art research and evidence-based applications, this four-volume resource provides the most comprehensive and accessible information available on sports medicine. The Encyclopedia of Sports Medicine describes all aspects of the field with perspectives, concepts, and methods from the medical, behavioral, and social sciences and physical education.
+
+### บริการฐานข้อมูล Encyclopedia of the human brain: https://library.tu.ac.th/bbs/content/94_492
+
+The functions of the human brain are the last major challenge to science. Despite having made rapid strides in understanding the cosmos, subatomic particles, molecular biology, and genetics, we still know very little about the organ that made these discoveries possible. How does the activity of 100 billion nerve cells—mere wisps of protoplasm that constitute the brain—give rise to the broad spectrum of abilities that we call consciousness, mind, and human nature?
+
+### บริการฐานข้อมูล Engineering Source: https://library.tu.ac.th/bbs/content/94_492
+
+Engineering Source is the premier database for professionals and researchers across all engineering disciplines, including biomedical, civil, electrical, mechanical, environmental and software. It includes hundreds of full-text engineering journals, magazines and trade publications, plus books, conference papers and more.
+
+### บริการฐานข้อมูล Eric: https://library.tu.ac.th/bbs/content/94_492
+
+ERIC, the Educational Resource Information Center, contains more than 1,243,000 records and links to more than 224,000 full-text documents from ERIC.
+
+### บริการฐานข้อมูล Ethos: e-theses online service: https://library.tu.ac.th/bbs/content/94_492
+
+EThOS is the UK’s national thesis service which aims to maximise the visibility and availability of the UK’s doctoral research theses.
+
+It demonstrates the quality of UK research, and supports the UK Government’s open access principle that publications resulting from publicly-funded research should be made freely available for all researchers, providing opportunities for further research. EThOS helps institutions to meet the expectation of the UK Research Councils that PhDs supported by a Research Council Training Grant should be made freely available in an open access repository, as indicated in its Training Grant Terms & Conditions
+
+### บริการฐานข้อมูล Gale eBooks https://library.tu.ac.th/bbs/content/94_492
+
+Gale eBooks is a database of encyclopedias and specialized reference sources for multidisciplinary research. These reference materials once were accessible only in the library, but now you can access them online from the library or remotely 24/7. Because each library creates its own eBook collection, the content you see may vary if you use the database at different libraries (your school, your public library, or your office).
+
+### บริการฐานข้อมูล Harvard business publishing https://library.tu.ac.th/bbs/content/94_492
+
+Harvard Business Publishing Database is a database of teaching tools, including Cases, Articles, Books and Chapters, Core Curriculum Readings, Materials for Online Classes, Simulations, and Podcases for classrooms of the Faculty of Commerce and Accountancy. by professors from the Faculty of Commerce and Accountancy
+
+Request an application through an online form. The librarian will send the link via email within 3 working days.
+
+### บริการฐานข้อมูล Heinonline https://library.tu.ac.th/bbs/content/94_492
+
+HeinOnline is a database with more than 120 million pages of legal history available in an online, fully-searchable, image-based format. HeinOnline provides more than 2,100 law and law-related periodicals.
+
+### บริการฐานข้อมูล Highwire press https://library.tu.ac.th/bbs/content/94_492
+
+HighWire Press is the largest archive of free full-text science on Earth! As of 3/25/15, we are assisting in the online publication of 2,434,604 free full-text articles and 7,659,003 total articles. There are 41 sites with free trial periods, and 171 completely free sites. 298 sites have free back issues, and 1547 sites have pay per view!
+
+### บริการฐานข้อมูล IBFD Tax News Analysis https://library.tu.ac.th/bbs/content/94_492
+
+IBFD Tax News Analysis provides readers with coverage of important international tax developments and issues that aims to offer as broad a selection as possible in terms of countries, topics and authors. The package brings you an integrated coverage of all news reported in our Tax News Service, including the Talking Points (opinion pieces providing commentary and analysis on the latest hot topics), combined with further interpretation and explanation in articles from all IBFD journal titles.
+
+### บริการฐานข้อมูล IEEE open access https://library.tu.ac.th/bbs/content/94_492
+
+IEEE publishes seven fully open access journals with topical focus areas. Publish faster online and reach a larger potential audience with a rapid, yet thorough, peer-review process.
+
+### บริการฐานข้อมูล IEEE/IET electronic library (iel) https://library.tu.ac.th/bbs/content/94_492
+
+The IEEE Xplore digital library is a powerful resource for discovery of and access to scientific and technical content published by the IEEE (Institute of Electrical and Electronics Engineers) and its publishing partners. IEEE Xplore provides web access to more than three-million full-text documents from some of the world's most highly cited publications in electrical engineering, computer science and electronics. More than two-million documents are in robust, dynamic HTML format.
+
+### บริการฐานข้อมูล IET EBOOKS COLLECTION https://library.tu.ac.th/bbs/content/94_492
+
+IET (The Institute of Engineering and Technology) eBooks 2012 Collection includes over 300 books.
+
+### บริการฐานข้อมูล IG library https://library.tu.ac.th/bbs/content/94_492
+
+หนังสืออิเล็กทรอนิกส์หลากหลายสำนักพิมพ์ทางด้าน Political Sciences มากกว่า 1,600 รายชื่อ ทางด้าน Business and Economics, Education, History, Law, Political และ Social Science เป็นต้น
+
+### บริการฐานข้อมูล ingenta https://library.tu.ac.th/bbs/content/94_492
+
+Ingenta was an original innovator of online distribution technology for published scientific, professional and academic research. Serving publishers, societies and libraries, the company’s flagship Ingenta Connect portal now hosts more than 5 million articles and 16,000 publications from 350 publishers, and is accessed in over 25,000 institutions worldwide. Through mergers and acquisitions with UnCover, CatchWord and Heron, Ingenta became an early leader in digital library platforms and associated services. The Ingenta legacy endures in Ingenta’s evolved, custom-built Ingenta CMS hosting solution.
+
+### บริการฐานข้อมูล Investment claims (ic): https://library.tu.ac.th/bbs/content/94_492
+
+Investment Claims (IC) is an acclaimed service for both practitioners and academic users. Regular updates mean that subscribers have access to an extensive collection of materials and analysis on international investment law and arbitration, including hundreds of awards and decisions, BITs, monographs, and more.
+
+### บริการฐานข้อมูล ISEAS ebook collection https://library.tu.ac.th/bbs/content/94_492
+
+Institute of Southeast Asian Studies (ISEAS) eBook Collection has over 700 book titles published by ISEAS from 1980 to present, with titles covering Southeast Asia issues.
+
+### บริการฐานข้อมูล Journal of clinical medicine: open access journal https://library.tu.ac.th/bbs/content/94_492
+
+Journal of Clinical Medicine (ISSN 2077-0383; CODEN: JCMOHK) is an international, open access journal published monthly online by MDPI.
+
+### บริการฐานข้อมูล JSTOR
+
+JSTOR is an online research and teaching platform that helps people discover, use, and build upon a wide range of content in a trusted digital archive. JSTOR provides a growing number of access options for individual researchers.
+
+### บริการฐานข้อมูล KARGER open access): https://library.tu.ac.th/bbs/content/94_492
+
+Easier than ever to find the information you need from Karger's growing collection of Open Access articles
+
+### บริการฐานข้อมูล Kasikorn Research Center (ฐานข้อมูลศูนย์วิจัยกสิกรไทย) ): https://library.tu.ac.th/bbs/content/94_492
+
+Kasikorn Research Center (ฐานข้อมูลศูนย์วิจัยกสิกรไทย) รวบรวมบทวิเคราะห์ วิจัยทั้งในเศรษฐกิจระดับจุลภาค มหภาค ภาคการเงิน และภาคเศรษฐกิจต่างประเทศ โดยเน้นกระแสของข่าวสารข้อมูลที่กำลังเป็นที่จับตามองในขณะนั้น ***ผู้สนใจสมัครสมาชิกฟรี ผ่านหน้าเว็บไซต์ของศูนย์วิจัยกสิกร***
+
+### บริการฐานข้อมูล Kluwer Arbitration: https://library.tu.ac.th/bbs/content/94_492
+
+KluwerArbitration.com is the worlds leading online resource for international arbitration research. It contains a wealth of commentary from expert authors and an extensive collection of primary source materials. Plus, as a subscriber, you gain access to exclusive materials including ICC cases and awards. No other resource comes close to providing the breadth and depth of KluwerArbitration.com. Providing access to exclusive arbitration material, the new and improved research experience enables you to make faster and more informed decisions.
+
+### บริการฐานข้อมูล Kluwer competition law: https://library.tu.ac.th/bbs/content/94_492
+
+Kluwer Competition Law is a leading online resource for EU and international competition law research. It contains a wealth of commentary from expert authors, an extensive collection of primary source materials and a practice tool.
+
+### บริการฐานข้อมูล LWW total access collection (ovid) : https://library.tu.ac.th/bbs/content/94_492
+
+Ovid has over 350 peer–reviewed journals-with no embargoes (one exception, the journal Science has a 3–month embargo). Plus, dozens of journal collections, including archive collections and packages based on publisher or subject content, Over 100 bibliographic and full–text databases.
+
+### บริการฐานข้อมูล Maruey elibrary: https://library.tu.ac.th/bbs/content/94_492
+
+Maruey eLibrary : E-books from Maruey Knowledge & Resource Center database cover business and management subject areas. (Available for students and professors of the Faculty of Commerce and Accountancy)
+
+### บริการฐานข้อมูล Nature: https://library.tu.ac.th/bbs/content/94_492
+
+Nature Publishing Group (NPG) is a publisher of high impact scientific and medical information in print and online. NPG publishes journals, online databases, and services across the life, physical, chemical and applied sciences and clinical medicine.
+
+### บริการฐานข้อมูล Nature Communications is an open access journal.: https://library.tu.ac.th/bbs/content/94_492
+
+As of January 2016, the journal only publishes open access content, and legacy subscription content has been made freely accessible alongside the open access articles published in Nature Communications prior to 2016. An article submitted to Nature Communications is assessed by our editors. If suitable it will be put through Peer Review, and if successful (subject to amendments), will be eligible for publication. When an article is accepted for publication, the author/s or funder/s pay an Article Processing Charge (APC). The final version of the published article is then free to read for everyone.
+
+### บริการฐานข้อมูล NCX Newscenter X (NCX) : https://library.tu.ac.th/bbs/content/94_492
+
+Newscenter X (NCX) offers the complete real-time online news service, comprehensive more over 200 sources of news and information sources. With the historical data over 15 years, you can search the information in Thai and English language. With new features of daily hot topic issues and support multimedia files. Promptly updated
+
+### บริการฐานข้อมูล Ndltd: global etd search: https://library.tu.ac.th/bbs/content/94_492
+
+The Global ETD Search service is a free service for researchers to find electronic theses and dissertations. This service is provided by the Networked Digital Library of Theses and Dissertations (NDLTD).
+
+### บริการฐานข้อมูล Omics international: open access journals: https://library.tu.ac.th/bbs/content/94_492
+
+Make the best use of Researched information from 700+ peer reviewed, Open Access Journals operated by 50,000+ Editorial Board Members and esteemed reviewers and 1000+ Scientific associations in Medical, Clinical, Pharmaceutical, Engineering, Technology and Management Fields.
+
+### บริการฐานข้อมูล Oxford competition law (ocl): https://library.tu.ac.th/bbs/content/94_492
+
+Oxford Competition Law (OCL) is the only fully integrated service to combine recognised market-leading commentaries with rigorous, selective National case reports and analysis from EU member states. OCL provides a suite of fully interlinked competition analysis, peer reviewed case reports and source materials - the ideal resource for assisting with case preparation. This service includes enhanced online versions of Oxford University Press' key commentaries in EU competition law: Bellamy & Child: European Union Law of Competition, Faull & Nikpay on The EU Law of Competition, and Whish & Bailey's Competition Law.
+
+### บริการฐานข้อมูล Oxford constitutions of the world (ocw) : https://library.tu.ac.th/bbs/content/94_492
+
+Oxford Constitutions of the World (OCW) is the only resource to contain fully-translated English-language versions of all the world's constitutions (both national and sub-national), accompanied by individual jurisdictional commentaries, and supplementary materials, including foundation documents, historical versions of constitutions, and amendment Acts/Laws.
+
+### บริการฐานข้อมูล Oxford english dictionary (oed) : https://library.tu.ac.th/bbs/content/94_492
+
+The Oxford English Dictionary (OED) is widely regarded as the accepted authority on the English language. It is an unsurpassed guide to the meaning, history, and pronunciation of 600,000 words— past and present—from across the English-speaking world. As a historical dictionary, the OED is very different from Dictionaries of current English, in which the focus is on present-day meanings. You’ll still find present-day meanings in the OED, but you’ll also find the history of individual words, and of the language—traced through 3 million quotations, from classic literature and specialist periodicals to film scripts and cookery books.
+
+### บริการฐานข้อมูล Oxford legal research library (olrl) : https://library.tu.ac.th/bbs/content/94_492
+
+The Oxford Legal Research Library (OLRL) is a family of products from Oxford University Press, providing integrated access across four unrivalled collections of leading works:
+
+### บริการฐานข้อมูล Oxford open: https://library.tu.ac.th/bbs/content/94_492
+
+Oxford University Press (OUP) is mission-driven to facilitate the widest possible dissemination of high-quality research. We embrace both green and gold open access (OA) publishing to support this mission.
+
+### บริการฐานข้อมูล Oxford reports on international law (oril) : https://library.tu.ac.th/bbs/content/94_492
+
+Oxford Reports on International Law (ORIL) has set new standards for currency and coverage of public international case law, reporting on international courts, domestic courts and ad hoc tribunals. The case law within ORIL is divided into seven modules, which are available separately or in any combination:
+
+### บริการฐานข้อมูล Oxford scholarship online (oso): https://library.tu.ac.th/bbs/content/94_492
+
+Oxford Scholarship Online (OSO) is a vast and rapidly-expanding online library, providing easy access to thousands of books across the world-renowned scholarly list of Oxford University Press (OUP). Spanning subjects across the humanities, social sciences, sciences, medicine, and law, OSO is an essential research resource for student, scholar, and academic alike, no matter what their subject specialty.
+
+### บริการฐานข้อมูล Oxford university press e-journals: https://library.tu.ac.th/bbs/content/94_492
+
+OUP (Oxford University Press) publishes over 200 journals on behalf of learned societies around the world and also publishes over 300 journals in the humanities, social sciences, law, science, and medicine.
+
+### บริการฐานข้อมูล passport: https://library.tu.ac.th/bbs/content/94_492
+
+Previously known as GMID, is produced by Euromonitor. It is a global market information database and analysis tool containing comprehensive data and reports across all industries, countries and consumers.
+
+### บริการฐานข้อมูล Political handbook of the world: https://library.tu.ac.th/bbs/content/94_492
+
+A collection of comprehensive country profiles chronicling each nation's political history, government, leadership, elections, and political parties that includes profiles of intergovernmental organizations, development banks, and the agencies and specialized bodies of the United Nations.
+
+### บริการฐานข้อมูล Pqdt open: https://library.tu.ac.th/bbs/content/94_492
+
+PQDT Open, offered by ProQuest's UMI Dissertation Publishing, provides the full text of open access dissertations and theses free of charge.
+
+### บริการฐานข้อมูล Psycarticles: https://library.tu.ac.th/bbs/content/94_492
+
+Updated weekly, More than 180,000 full-text articles from more than 100 journal,   Includes all APA published scholarly journals. Coverage for most journals from Volume 1, Issue 1.   Each journal employs a meticulous peer-review process.   Articles are available in PDF or HTML formats for easy navigation and downloading. Includes journals from the Canadian Psychological Association, and the Hogrefe Publishing Group.
+
+### บริการฐานข้อมูล Psycinfo: https://library.tu.ac.th/bbs/content/94_492
+
+With nearly 4 million records and upwards of 4,000 expertly-indexed records added each week, this ever-expanding collection of behavioral and social science research, dissertations, and scholarly literature abstracts offers a broad view of the field. With relevance to a host of related disciplines, including neuroscience, business, nursing, law, and education, PsycINFO delivers the peer-reviewed content and abstracts students and researchers need, and does so with remarkable precision and a dedication to scholarly and scientific excellence.
+
+### บริการฐานข้อมูล Public library of science: open access: https://library.tu.ac.th/bbs/content/94_492
+
+PLOS was founded in 2001 as a nonprofit Open Access publisher, innovator and advocacy organization with a mission to accelerate progress in science and medicine by leading a transformation in research communication.
+
+### บริการฐานข้อมูล pubmed: https://library.tu.ac.th/bbs/content/94_492
+
+PubMed comprises more than 25 million citations for biomedical literature from MEDLINE, life science journals, and online books. Citations may include links to full-text content from PubMed Central and publisher web sites.
+
+### บริการฐานข้อมูล Sage journals: https://library.tu.ac.th/bbs/content/94_492
+
+SAGE Journals SAGE publishes more than 800 journals in the social sciences, humanities, and life sciences from 1999 to present.
+
+### บริการฐานข้อมูล Sage: open access journals: https://library.tu.ac.th/bbs/content/94_492
+
+The following lists the pure gold open access journals published by SAGE. All articles published in the journals provide worldwide, barrier-free access to the full-text of articles online, immediately on publication under a creative commons licence.
+
+### บริการฐานข้อมูล Sciencedirect: https://library.tu.ac.th/bbs/content/94_492
+
+ScienceDirect is a leading full-text scientific database offering journal articlesfrom over 1,800 journals.
+
+### บริการฐานข้อมูล Scientific research publishing: open access journals: https://library.tu.ac.th/bbs/content/94_492
+
+Scientific Research Publishing Inc. (SCIRP) has played a prominent role in the Open Access movement starting from as early as 2007. SCIRP aims to operate at the very forefront of this movement while abiding by its highest possible standards.
+
+### บริการฐานข้อมูล Scifinder n: https://library.tu.ac.th/bbs/content/94_492
+
+SciFinder(n) is a research discovery application that provides integrated access to the world's most comprehensive and authoritative source of references, substances and reactions in chemistry and related sciences.
+
+### บริการฐานข้อมูล scival: https://library.tu.ac.th/bbs/content/94_492
+
+Scival เป็นฐานข้อมูลที่สามารถวิเคราะห์ข้อมูลศักยภาพด้านการวิจัยของมหาวิทยาลัย โดยสามารถแสดงภาพรวมงานวิจัยของหน่วยงาน  การเปรียบเทียบสมรรถนะด้านการวิจัยระหว่างหน่วยงาน และแสดงเครือข่ายความร่วมมือได้ โดยอาจารย์ นักวิจัย นักศึกษา และบุคลากรของมหาวิทยาลัยธรรมศาสตร์
+
+### บริการฐานข้อมูล Scopus
+
+Scopus is the largest abstract and citation database of peer-reviewed literature: scientific journals, books and conference proceedings. Delivering a comprehensive overview of the world's research output in   the fields of science, technology, medicine, social sciences, arts and humanities, Scopus features smart tools to track, analyze and visualize research.
+
+### บริการฐานข้อมูล Setsmart: https://library.tu.ac.th/bbs/content/94_492
+
+Information service system for the stock market and derivatives market on the internet Developed by the Stock Exchange of Thailand Display stock price and historical data, important statistical data, and information of listed companies.
+
+(Available for students and professors of the Faculty of Commerce and Accountancy. Can be used every working day at the faculty computer room You can access the service via VPN by the committee according to the guide below)
+
+### บริการฐานข้อมูล Springeropen: https://library.tu.ac.th/bbs/content/94_492
+
+SpringerOpen, launched in June 2010, includes Springer’s portfolio of 200+ peer-reviewed fully open access journals across all areas of science.
+
+### บริการฐานข้อมูล Springer ebooks: https://library.tu.ac.th/bbs/content/94_492
+
+Springer eBooks เป็นฐานข้อมูลหนังสืออิเล็กทรอนิกส์ทางด้านการแพทย์ (Medicine) ชีวเวชศาสตร์ (Biomedical Science) วิทยาศาสตร์สิ่งมีชีวิต (Life Science) ตั้งแต่ปี 2014 จำนวนมากกว่า 2000 ชื่อเรื่อง
+
+### บริการฐานข้อมูล Ssrn elibrary: https://library.tu.ac.th/bbs/content/94_492
+
+SSRN eLibrary รวบรวมงานวิจัยในสาขาวิชาต่างๆ ได้แก่ Accounting, Cognitive Science, Corporate, Economics, Entrepreneurship, Financial, Health, Information, Leadership, Legal, Management, Marketing, Negotiations, Political และ Social Insurance เป็นต้น ผู้ใช้บริการสามารถเข้าถึงบทคัดย่อของกว่า 346,400 รายการ นอกจากนี้ ยังให้บริการเอกสารฉบับเต็มเป็นไฟล์ PDF กว่า 281,600 รายการ
+
+### บริการฐานข้อมูล Statista: https://library.tu.ac.th/bbs/content/94_492
+
+Statista a leading provider of market and consumer data. Over 1,100 visionaries, experts and doers continuously reinvent Statista, thereby constantly developing successful new products and business models.(Available only for students and professors of the Faculty of Commerce and Accountancy.)
+
+### บริการฐานข้อมูล Taylor & francis: https://library.tu.ac.th/bbs/content/94_492
+
+Taylor & Francis covers more than 2,000 journals in the social sciences, humanities, and life sciences from 1999 to present.
+
+### บริการฐานข้อมูล Taylor & francis e-books: https://library.tu.ac.th/bbs/content/94_492
+
+Taylor & Francis E-books offers a comprehensive eBook collection with scientific, technical and medical references that delivers more than 15,000 references in over 400 subject areas and more than 40 collections. Subjects includes Agriculture, Biomedical science, Business & Management, Chemistry, Computer science & engineering, Economics, Energy & Clean technology, Chemical engineering, Civil engineering, Electrical engineering, Environmental engineering, General engineering, Industrial & Manufacturing engineering, Mechanical engineering, Mining engineering, Environmental science, Ergonomics & Human factors, Food science & Culinary science, Forensics & Criminal justice, Games & Animation, Geoscience, Healthcare, Homeland security, Information technology, Life science, Material science, Mathematics, Medicine, Nanoscience & Technology, Nutrition, Occupational health & Safety, Pharmaceutical science & regulation, Physics, Polymer science, Public administration & Public policy, Social sciences, Statistics, Veterinary medicine, and Water science & engineering.
+
+### บริการฐานข้อมูล Thai journals online (thaijo) : https://library.tu.ac.th/bbs/content/94_492
+
+ระบบฐานข้อมูลวารสารอิเล็กทรอนิกส์กลางของประเทศไทย เป็นแหล่งรวมวารสารวิชาการที่ผลิตในประเทศไทยทุกสาขาวิชา ทั้งสาขาวิทยาศาสตร์/เทคโนโลยี และมนุษยศาสตร์และสังคมศาสตร์
+
+### บริการฐานข้อมูล Thai national research repository: https://library.tu.ac.th/bbs/content/94_492
+
+Thai National Research Repository (TNRR) หรือ ระบบคลังข้อมูลงานวิจัยไทย เป็นแหล่งรวบรวมข้อมูลงานวิจัย ต่างๆ ภายในประเทศ โดยให้บริการสืบค้นข้อมูล งานวิจัย ผลงานวิจัย รวมถึงนักวิจัยที่เกี่ยวข้องกับผลงานวิจัย เพื่อเป็นแหล่งเรียนรู้ ต่อยอดความคิด เผยแพร่งานวิจัยต่างๆ จากทุกแหล่งข้อมูลที่เชื่อมโยงกันผ่านเครือข่ายงานวิจัย
+
+### บริการฐานข้อมูล Thailand digital collection: https://library.tu.ac.th/bbs/content/94_492
+
+Thailand Digital Collection (TDC) เป็นฐานข้อมูลวิทยานิพนธ์และรายงานวิจัยฉบับเต็มที่รวบรวมจากมหาวิทยาลัยต่าง ๆ ของไทย โดยโครงการเครือข่ายห้องสมุดในประเทศไทย (Thai Library Integrated System: ThaiLIS) ภายใต้สำนักงานคณะกรรมการการอุดมศึกษา (สกอ.)
+
+### บริการฐานข้อมูล Thammasat university academic journals: https://library.tu.ac.th/bbs/content/94_492
+
+Thammasat University Academic Journals contains research publications of Thammasat University's researchers, academia, faculty and students which have been presented at national and international conferences and seminars.
+
+### บริการฐานข้อมูล The columbia gazetteer of the world: https://library.tu.ac.th/bbs/content/94_492
+
+The Columbia Gazetteer of the World Online contains over 170,000 articles or entries on all types of places throughout the world; both physical places and political entities. Most articles have details on where the place is located, its dimensions and borders, and information on economic activities, demographics, history, and former or alternate names and different spellings and pronunciations.
+
+### บริการฐานข้อมูล The foundation for the promotion of social sciences and humanities: https://library.tu.ac.th/bbs/content/94_492
+
+The Foundation for the Promotion of Social Sciences and Humanities was founded in 1966 to promote the publication of quality textbooks in the Thai language. Subject matter includes geography, history, economics, political science, social sciences and humanities, philosophy, psychology, language and literature.
+
+### บริการฐานข้อมูล Theses canada: https://library.tu.ac.th/bbs/content/94_492
+
+Theses Canada, launched in 1965 at the request of the deans of Canadian graduate schools, is a collaborative program between Library and Archives Canada (LAC) and nearly 70 universities accredited by Universities Canada. It strives to:
+
+acquire and preserve theses and dissertations from participating universities provide free access to Canadian electronic theses and dissertations in the collection facilitate access to non-digital theses and dissertations in the collection. The collection contains both microfiche and electronic theses and dissertations that are for personal or academic research purposes. Any commercial use, publication, reproduction or lending of this material is strictly prohibited.
+
+### บริการฐานข้อมูล Thieme open: https://library.tu.ac.th/bbs/content/94_492
+
+Thieme Open is the gateway to the open access journal content from the Thieme Publishing Group.  It covers both fully open access journals, as well as articles published on an open access basis in our subscription journals. All open access content published by Thieme is freely and permanently available online for everyone, increasing the visibility, usage and impact of your work.
+
+### บริการฐานข้อมูล Tulib : journal index database: https://library.tu.ac.th/bbs/content/94_492
+
+ฐานข้อมูลดัชนีวารสาร คือ แหล่งสืบค้นบทความวารสารที่สำนักหอสมุดบอกรับ นักศึกษาสามารถสืบค้นบทความที่ต้องการ และจดรายละเอียดเกี่ยวกับฉบับพิมพ์ เพื่อนำข้อมูลฉบับพิมพ์ไปขอยืมตัวเล่มวารสารจากเจ้าหน้าที่หอสมุดได้ กรณีที่เป็นบทความอิเล็กทรอนิกส์ นักศึกษาจะสามารถเข้าถึงเอกสารฉบับเต็มได้ทันที
+
+### บริการฐานข้อมูล United nations: official documents system: https://library.tu.ac.th/bbs/content/94_492
+
+United Nations: Official documents system เป็นระบบจัดเก็บและสืบค้นเอกสารและสิ่งพิมพ์ต่างๆ รวมทั้งการประชุม และมติของหลายๆ หน่วยงานในสังกัดสหประชาชาติ ภาษาที่ใช้มีอารบิก จีน อังกฤษ ฝรั่งเศษ รัสเซีย และสเปน มีบางรายการที่เป็นภาษาเยอรมัน ทุกรายการสามารถดูเนื้อหาเต็มได้ สิ่งพิมพ์ที่ไม่รวมอยู่ในระบบนี้ คือ หนังสือพิมพ์ที่วางจำหน่าย สิ่งพิมพ์ของสหประชาชาติที่จัดจำหน่าย สิ่งพิมพ์ของ United Nations Treaty Series และจุลสารที่ออกโดย United Nations Department Public Information
+
+### บริการฐานข้อมูล Untreaty
+
+UNtreaty เป็นฐานข้อมูลสนธิสัญญาและข้อตกลงระหว่างประเทศที่จัดพิมพ์โดยสำนักเลขาธิการของสหประชาชาติเป็นภาษาต่างๆ ขึ้นอยู่กับต้นฉบับ กรณีไม่ใช่ภาษาอังกฤษหรือฝรั่งเศส จะมีฉบับแปลเป็นภาษาอังกฤษและฝรั่งเศส ให้ตามความเหมาะสม
+
+### บริการฐานข้อมูล uptodate: https://library.tu.ac.th/bbs/content/94_492
+
+UpToDate® is an evidence-based, physician-authored clinical decision support resource which clinicians trust to make the right point-of-care decisions. More than 6,300 world-renowned physician authors, editors, and peer reviewers use a rigorous editorial process to synthesize the most recent medical information into trusted, evidence-based recommendations that are proven to improve patient care and quality.
+
+### บริการฐานข้อมูล United States Pharmacopeia-USP: https://library.tu.ac.th/bbs/content/94_492
+
+ฐานข้อมูลด้านตำรายาสำหรับประเทศสหรัฐอเมริกา จัดพิมพ์เป็นประจำทุกปี คณะกรรมการตำราฟาร์มาโคเปียของสหรัฐอเมริกา เป็นองค์กรไม่แสวงหาผลกำไรและเจ้าของลิขสิทธิ์ในตัวตำรายา USP ตีพิมพ์ร่วมกับ National Formulary ในเล่มเดียวกันชื่อ USP-NF ที่มีจุดมุ่งหมายเพื่อช่วยปรับปรุงสุขภาพของมนุษย์ทั่วโลก โดยกำหนดมาตรฐานที่รับรองในเรื่อง คุณภาพ ความปลอดภัย และประสิทธิภาพของยาและอาหาร
+
+### บริการฐานข้อมูล VitalSource: https://library.tu.ac.th/bbs/content/94_492
+
+VitalSource is your leading authority in digital course materials, eTextbooks, and student savings. Bookshelf® by VitalSource is the world’s leading eReader, preferred by thousands of institutions and millions of students in 240+ countries and territories for reading, studying and succeeding. Conditions
+
+### บริการฐานข้อมูล Westlaw: https://library.tu.ac.th/bbs/content/94_492
+
+Westlaw is a global legal research library built on some of the world’s best legal information with over 28,000 databases of case law, legislation, law reviews, treaties.
+
+### บริการฐานข้อมูล Wiley online library: https://library.tu.ac.th/bbs/content/94_492
+
+Wiley Online Library hosts the world's broadest and deepest multidisciplinary collection of online resources covering life, health and physical sciences, social science, and the humanities. It contains over 1,000 journals. (Full-text articles can access previously until 2019.)
+
+### บริการฐานข้อมูล Wiley open access: https://library.tu.ac.th/bbs/content/94_492
+
+Wiley Open Access is a program of fully open access journals. All research articles published in Wiley Open Access journals are immediately freely available to read, download and share.
+
+### บริการฐานข้อมูล Wiley-blackwell encyclopedia of social and political movements: https://library.tu.ac.th/bbs/content/94_492
+
+Encyclopedia of Social and Political Movements contains over 400 entries exploring social and political movements and related collective phenomena throughout the world.
+
+### บริการฐานข้อมูล World scientific ebooks: https://library.tu.ac.th/bbs/content/94_492
+
+World Scientific eBooks - 2012 Full Collection includes over 300 books published from 2012.
+
+### บริการฐานข้อมูล Refinitiv Workspace : https://library.tu.ac.th/bbs/content/94_492
+
+Workspace is a comprehensive financial data and analytics platform developed by the London Stock Exchange Group (LSEG). It serves as a successor to Refinitiv Eikon and is designed to provide professionals in finance, investment and academia with real-time market data, news, analytics, and productivity tools. (Available for students and professors of the Faculty of Commerce and Accountancy. Available in the computer lab of the Faculty of Commerce and Accountancy, or access via VPN using the instructions below.)
+
+### การใช้งาน Openathens: https://library.tu.ac.th/bbs/content/94_522
+
+ในกรณีที่ผู้ใช้บริการต้องเดินทางไปต่างประเทศหรืออยู่ภายนอกมหาวิทยาลัย แต่ต้องการใช้บริการค้นหาข้อมูลและเข้าถึงฐานข้อมูลต่างๆ ของห้องสมุด ผู้ใช้บริการสามารถเลือกใช้วิธีการเข้าถึงเครือข่ายห้องสมุด การเข้าถึงเครือข่ายด้วย OPENATHENS ผู้ใช้บริการสามารถใช้บริการค้นหาข้อมูลในฐานข้อมูลต่างๆ ของห้องสมุดได้อย่างสะดวกและรวดเร็วเพียงป้อนชื่อผู้ใช้และรหัส ผ่าน TU Wi-Fi ที่หน้า Openathens
+
+#### คู่มือการใช้งาน Openathens คู่มือการใช้งาน Openathens: https://digi.library.tu.ac.th/website/pdf/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99%20OpenAthens_2022.pdf
+
+หมายเหตุ: หากต้องการสอบถามหรือขอความช่วยเหลือ กรุณาส่งอีเมลไปยัง tulib@tu.ac.th  หรือติดต่อผ่าน Line:TULIB LifeONLine: @Https://lin.ee/bdwYsr1
+
+## แนะนำ Fiction:  https://library.tu.ac.th/searchA/adc
+
+## แนะนำ Manga: https://library.tu.ac.th/searchA/acd
+
+## แนะนำหนังสืออ้างอิง: https://library.tu.ac.th/searchA/rez
+
+## ทรัพยากรสารสนเทศยอดนิยม: https://library.tu.ac.th/statistics/loanBestList
+
+## ฐานข้อมูลเกี่ยวกับวิทยานิพนธ์หอสมุดแห่งมหาวิทยาลัยธรรมศาสตร์
+
+https://library.tu.ac.th/bbs/content/94_494
+
+## ฐานข้อมูลวารสารภาษาต่างประเทศ
+
+https://publications.ebsco.com/?custId=s4775581&groupId=main&profileId=pfui
+
+## Endnote THAMMASAT UNIVERSITY LIBRARY บริการ Endnote สำหรับนักศึกษาและบุคลากร
+
+บริการดาวน์โหลดโปรแกรมจัดการบรรณานุกรม EndNote: https://uservice.library.tu.ac.th/u-services/endnote/?lang=TH&token=2340d16853028bdafdfff081be835448c2abb5e73dc173e0
+
+### คู่มือ Endnote for Window
+
+ดาวน์โหลดเอกสารประกอบการอบรม >> https://drive.google.com/file/d/1jH7fUlcHgG_eQEYOLkQkNrbrqXRlqK6S/view
+
+รับชมการอบรมย้อนหลัง >> https://youtu.be/tbpaICAvEw8?si=RNzyz1NVYgudeMaF
+
+### คู่มือ Endnote for Mac
+
+ดาวน์โหลดเอกสารประกอบการอบรม >> https://drive.google.com/file/d/1nTqkLK3nf8dUlcDRa9j3ycD6rUwhh1WA/view
+
+รับชมการอบรมย้อนหลัง >> https://youtu.be/CyZSjYNGqk0?si=81ycAl3kak3pVMdb
+
+บริการช่วยสนับสนุนงานวิจัย จากหอสมุดแห่งมหาวิทยาลัยธรรมศาสตร์
+
+Research Support: https://www.facebook.com/share/p/1A9C3S6kBp/
+
+# ระเบียบการจองห้อง  Study Room
+
+เพื่อความเรียบร้อยและประสิทธิภาพในการใช้งานห้องประชุม (Study Room) ขอความร่วมมือทุกท่านปฏิบัติตามกฎระเบียบอย่างเคร่งครัด
+
+1\. ผู้จองห้อง “ทุกคน" ต้องยืนยันการใช้ห้อง ก่อนเวลาจอง 30 นาที หรือหลังเวลาจองไม่เกิน 15 นาที ภายในรัศมี 1 กิโลเมตร
+
+2\. หากไม่ต้องการใช้ห้อง สามารถยกเลิกการจองห้องได้ เฉพาะห้องที่ยังไม่ได้ยืนยันการจองเท่านั้น
+
+3\. หากผู้จองห้องไม่ยืนยันการจองให้ครบทุกคน หรือไม่ยืนยันการจองห้อง 2 ครั้ง จะถูกตัดสิทธิการจองห้องเป็นเวลา 14 วัน
+
+4\. ไม่นำอาหารเข้าไปรับประทาน และต้องรักษาความสะอาด ปิดไฟ ปิดแอร์ทุกครั้งหลังจากใช้ห้อง หากพบว่าไม่ปฏิบัติตาม หอสมุดฯ จะจำกัดสิทธิการใช้ห้องเป็นเวลา 14 วัน
+
+5\. หากหอสมุดฯ พบว่านำรหัสผู้อื่นมาใช้จองห้อง จะจำกัดสิทธิการจองใช้ห้องเป็นเวลา 14 วัน
+
+หมายเหตุ หอสมุดฯ ของเราคือพื้นที่ของการเรียนรู้ร่วมกัน ขอให้ทุกท่านใช้พื้นที่อย่างมีวินัยและเคารพสิทธิ์ของผู้อื่น
+
+หมายเหตุ: TULIB Booking Study Room ระบบการจองห้องรูปแบบใหม่ รับเทอมใหม่ ที่จะทำให้การจองห้องของคุณเป็นเรื่องง่าย
+
+- ห้อง Study Room (สามารถจองวันต่อวัน ตั้งแต่เวลา 00.05 น.ของแต่ละวัน)
+
+- ห้อง Co-Learning Space (สามารถจองได้วันต่อวัน ตั้งแต่เวลา 00.05 น.ของแต่ละวัน)
+
+- ห้อง Multimedia Lab (สามารถจองได้ล่วงหน้า 7 วัน)
+
+## การจองห้อง Study Room สามารถทำได้ 2 วิธี ดังนี้
+
+1\. จองห้อง Study Room ผ่านเว็บไซต์หอสมุด: https://booking.library.tu.ac.th/login
+
+1.1\. เข้าเว็บไซต์หอสมุดฯ library.tu.ac.th
+
+1.2\. ไปที่เมนู สิ่งอำนวยความสะดวก หรือ Facilities
+
+1.3\. เลือก ห้องศึกษาค้นคว้าแบบกลุ่มและห้องมัลติมีเดีย แลป หรือ Group Study Rooms and Multimedia Lab
+
+1.4\. คลิกปุ่ม Book a Study Room & Multimedia Lab
+
+1.5\. เข้าสู่ระบบด้วย Username และ Password เดียวกับ TU Wi-Fi
+
+2\. Study Room ผ่านไลน์ ได้ตามขั้นตอนดังนี้
+
+2.1\. Add Line: @Https://lin.ee/bdwYsr1
+
+2.2\. เข้าสู่ระบบด้วย Username และ Password เดียวกับ TU Wi-Fi
+
+2.3\. เลือกเมนู Booking จากนั้นเลือกเมนู. Study Room จองห้อง
+
+2.4\. เลือกพื้นหอสมุดที่ต้องการจอง
+
+2.5\. ตรวจสอบช่วงเวลาที่ต้องการ และจำนวนสมาชิกที่ใช้จอง
+
+2.6\. ยอมรับเงื่อนไขการจอง และกด​ Booking
+
+2.7\. ตรวจสอบข้อมูลการจองทุกครั้งได้ที่เมนู My Booking
+
+หากติดปัญหาการจอง การ Confirm , การกดยืนห้อง สามารถติดต่อเจ้าหน้าที่ประจำจุดบริการหรือ แจ้งเจ้าหน้าที่ผ่านเมนู Live Chat หรือเมนูปรึกษา หรือสอบถามเจ้าหน้าที่
+
+## ข้อสำคัญของการจองห้อง Study Room
+
+1\. ผู้ใช้งานทุกคนต้องยืนยันการใช้ห้องได้ 30 นาทีก่อนใช้ห้อง และไม่ช้าเกินกว่า 15 นาที
+
+2\. หากไม่ยืนยันห้องในเวลาที่กำหนด 2 ครั้ง จะถูกพักการใช้งานหรือ Block การจองห้อง Study Room เป็นระยะเวลา 14 วัน (Block การจองห้อง 14วัน)
+
+3\. หากครบกำหนดการปลด Block แต่ยังไม่สามารถกดจองห้องได้ Line TULIB LifeONLINE : @Https://lin.ee/bdwYsr1 เมนู Live Chat กับปรึกษา สอบถามเจ้าหน้าที่
+
+## ข้อคำถามเกี่ยวการจองห้อง Study Room (FAQ)
+
+1\. คำถาม: โดนบล็อกการจองห้อง จะโดนกี่วัน
+
+คำตอบ: 14 วัน
+
+2\. คำถาม: ไม่กดยืนยันการจองห้อง รอบแรกจะโดนบล็อกไหม
+
+คำตอบ: ไม่โดนบล็อกการจอง
+
+3\. คำถาม: ต้องกดยืนยันการจองห้องกี่ครั้งที่จะโดนบล๊อค
+
+คำตอบ: 2 ครั้ง โดนบล๊อค 14 วัน
+
+4\. คำถาม: ช่วยปลดล๊อคจองห้องได้ไหม
+
+คำตอบ: ไม่ได้ต้องรอ 14 วัน เท่านั้น
+
+5\. คำถาม: โดนบล๊อกการจองห้องต้องทำยังไง
+
+คำตอบ: รอจนครบ 14 วัน จึงจะสามารถจองได้ตามปกติ
+
+## การขอใช้พื้นที่ในห้องสมุด (Book a Library Space) ห้องประชุมใหญ่ สำหรับการจัดกิจกรรม ห้องประชุมใหญ่ เพื่อการประชาสัมพันธ์ และสัมมนา
+
+### ขั้นตอนการจองห้องประชุม
+
+1\. ส่งคำขอที่ https://library.tu.ac.th  เลือก Facilities เลือก Book a Library Space หรือเข้าลิงก์: https://booking.library.tu.ac.th/eservice/signin.php
+
+2\. Login ด้วยรหัส TU-WIFI
+
+3\. เลือก พื้นที่หรือห้อง/วัน/เวลา ที่ต้องการใช้ (ล่วงหน้า 7 วัน) พร้อมแนบบันทึกรายละเอียดโครงการ
+
+4\. ตรวจสอบสถานะอนุมัติภายใน 3 วันทำการ
+
+### เงื่อนไขการใช้บริการ ห้องประชุมใหญ่ เพื่อการประชาสัมพันธ์ Library Space
+
+1\. สำหรับนักศึกษา อาจารย์ และบุคลากร ปัจจุบัน ของ มธ. เท่านั้น
+
+2\. ส่งคำขอล่วงหน้า อย่างน้อย 7 วันทำการ
+
+3\. ผู้ขอใช้บริการต้องรับผิดชอบ หากอุปกรณ์ได้รับความเสียหาย สอบถามเพิ่มเติม ติดต่อ Line:TULIB LifeONLine หรือแอด @Https://lin.ee/bdwYsr1 ผ่านเมนู LiveChat ปรึกษาสอบถามเจ้าหน้าที่
+
+# ศิษย์เก่าที่ต้องการใช้บริการห้องสมุด
+
+1\. หากศิษย์เก่าต้องการใช้บริการห้องสมุด จะต้องสมัครสมาชิกประเภทสมทบ (รับสมัครเฉพาะศิษย์เก่ามหาวิทยาลัยธรรมศาสตร์เท่านั้น) สมาชิกสมทบสามารถเข้าใช้บริการห้องสมุดสาขาได้แล้ว
+
+1.1\. เข้าห้องสมุดทุกสาขาได้ทุกแห่ง
+
+1.2\. ยืมหนังสือได้ 20 เล่ม / 30 วัน
+
+1.3\. ใช้บริการ TULIB Delivery
+
+1.4\. ใช้ฐานข้อมูลที่หอสมุด มธ. บอกรับภายในห้องสมุดสาขา
+
+2\. การสมัครสมาชิกสมทบ
+
+2.1\. ติดต่อเจ้าหน้าที่หอสมุดฯ ผ่านทาง Line: TULIB LifeONLine: @Https://lin.ee/bdwYsr1 เลือกที่เมนู แชทปรึกษาเจ้าหน้าที่ เพื่อแจ้งความประสงค์สมัครสมาชิกสมทบ
+
+2.2\. ผู้ใช้บริการกรอกข้อมูลในแบบฟอร์ม https://www.surveymonkey.com/r/82RVYHC
+
+2.3\. ชำระค่าสมาชิกปีละ 2,000 บาท (ผ่านบัญชี SCB) และ ค่าประกันหนังสือหาย 2,000 บาท (ผ่าน QR Code ที่แอดมิน Gen ให้) โอนแยกกัน 2 บัญชี
+
+2.4\. จากนั้นส่งหลักฐานการชำระเงินมาที่ LINE: @lifeonline
+
+2.5\. เจ้าหน้าที่เปิดสิทธิ์การใช้งาน และแนะนำสิทธิการใช้บริการของหอสมุดฯ
+
+# บริจาคหนังสือ
+
+คุณสามารถบริจาคทรัพยากรสารสนเทศ หนังสือ วารสาร และงานวิจัย เป็นต้น ให้กับหอสมุดแห่งมหาวิทยาลัยธรรมศาสตร์ เพื่อเผยแพร่และให้บริการภายในห้องสมุดสาขา เช่น หอสมุดปรีดี พนมยงค์ หอสมุดป๋วย อึ๊งภากรณ์ และห้องสมุดบุญชู ตรีทอง เป็นต้น หรือ บริจาคทรัพยากรสารสนเทศในรูปแบบอิเล็กทรอนิกส์ เพื่อเผยแพร่และให้บริการผ่านคลังทรัพยากรสารสนเทศอิเล็กทรอนิกส์ TU Digital Collections
+
+ทั้งนี้ หนังสือที่นำมาบริจาคควรมีสภาพสมบูรณ์ ไม่ชำรุด เสียหาย ทรัพยากรสารสนเทศที่สามารถนำมาบริจาคให้กับหอสมุดฯ ได้แก่
+
+1\. หนังสือ เช่น หนังสือทั่วไป หนังสือวิชาการ นวนิยาย วรรณกรรมเยาวชน หนังสือหายาก หนังสืออนุสรณ์งานศพ เป็นต้น
+
+2\. สิ่งพิมพ์ต่อเนื่อง เช่น วารสารวิชาการ นิตยสาร เอกสาร รายงานต่าง ๆ
+
+3\. งานวิจัย เช่น งานวิจัยส่วนบุคคล งานวิจัยของหน่วยงานต่าง ๆ
+
+ดูเวลาเปิดบริการ ที่ตั้ง และช่องทางติดต่อห้องสมุดสาขาที่ ช่วงเวลาที่ให้บริการ
+
+- บริจาคหนังสือเป็นไฟล์ดิจิทัล แจ้งความประสงค์ พร้อมส่งไฟล์ไฟของหนังสือมาที่ preserv@tu.ac.th.
+
+- ทั้งนี้ หากต้องการหนังสือตอบรับ/ตอบขอบคุณ โปรดแจ้งข้อมูลผู้บริจาค และช่องทางการส่งจัดหนังสือตอบรับ/ตอบขอบคุณ โดยกรอก แบบฟอร์มหนังสือรับบริจาค และจัดส่งมาพร้อมกับหนังสือบริจาค
+
+## นโยบายและการดำเนินงาน
+
+เมื่อหอสมุดฯ ได้รับหนังสือบริจาคแล้ว เราจะดำเนินการพิจารณานำเข้าระบบห้องสมุดเพื่อให้บริการ หรือพิจารณาบริจาคต่อให้กับห้องสมุด หน่วยงาน หรือบุคคลอื่น เพื่อใช้ประโยชน์ทางการศึกษา หรือดำเนินการอื่นเพื่อประโยชน์ของหอสมุดฯ
+
+## ขั้นตอนการบริจาค
+
+1\. บริจาคด้วยตนเอง โดยติดต่อห้องสมุดสาขา ตามวันเวลาเปิดบริการ
+
+2\. บริจาคโดยจัดส่งทางไปรษณีย์ โดยจัดส่งตามที่อยู่ ดังนี้
+
+## ที่อยู่สำหรับการติดต่อบริจาคหนังสือ
+
+1\. หอสมุดปรีดี พนมยงค์ (หนังสือบริจาค) มหาวิทยาลัยธรรมศาสตร์ ท่าพระจันทร์ 2 ถนนพระจันทร์ เขตพระนคร กรุงเทพฯ 10200 โทร. 0-2613-3544
+
+2\. หอสมุดป๋วย อึ๊งภากรณ์ (หนังสือบริจาค) มหาวิทยาลัยธรรมศาสตร์ ศูนย์รังสิต 99 หมู่ 18 ถนนพหลโยธิน ต.คลองหนึ่ง อ.คลองหลวง
+
+จ.ปทุมธานี 12121 โทร. 0-2564-4444 ต่อ 1305
+
+สอบถามรายละเอียดเพิ่มเติมได้ที่  Line TULIB LifeONLINE : @Https://lin.ee/bdwYsr1 เมนู Live Chat กับปรึกษา สอบถามเจ้าหน้าที่
+
+# ติดตามและรับชมคลิปอบรมเพิ่มเติมย้อนหลังได้
+
+ทาง YouTube Channel "https://www.youtube.com/@ThammasatUniversityLibrary" ค่ะ
+
+1. TU e-Thesis รวบรัดฉบับเจ้าหน้าที่ รับชมย้อนหลังได้ทาง https://www.youtube.com/watch?v=gljgQjs9stg
+
+2. TU e-Thesis Insider: ทุกเทคนิคที่ต้องรู้ก่อนส่งเล่ม (TH) รับชมย้อนหลังได้ทาง https://www.youtube.com/watch?v=8jGvltD2iA8
+
+
+# ของหายได้คืน Lost and Found ลืมของไว้ที่ห้องสมุดทำอย่างไรบ้าง
+
+1\. เบื้องต้นสามารถตรวจสอบรายการอุปกรณ์หรือสิ่งของที่คุณทำหายหรือลืมไว้ในบริเวณพื้นหอสมุดได้ที่: https://office.library.tu.ac.th/lost_and_found/
+
+2\. ติดต่อเจ้าหน้าที่ Line TULIB LifeONLINE : @Https://lin.ee/bdwYsr1 เมนู Live Chat กับปรึกษา สอบถามเจ้าหน้าที่
+
+# บัญชีห้องสมุด Library Account /เว็บไซต์ห้องสมุด
+
+ตรวจบัญชี รายการยืม ประวัติการยืม รายการจอง สถานะหนังสือ รายการค่าปรับ : https://library.tu.ac.th/login หากลืมรหัสผ่านเข้าเว็บไซต์ห้องสมุดสามารถแจ้งข้อมูลได้ที่ Line TULIB LifeONLINE : @Https://lin.ee/bdwYsr1 เมนู Live Chat กับปรึกษา สอบถามเจ้าหน้าที่
+
+# TU Wi-FI
+
+TU Wi-Fi สำหรับ นักศึกษา บุคลากร และอาจารย์ปัจจุบันของ มธ.
+
+Username คือรหัสนักศึกษา / รหัสผู้ใชงาน
+
+Password คือรหัสบัตรประชาชน
+
+TU Free WiFi สำหรับศิษย์เก่าและประชาชนทั่วไป
+
+ทำตามขั้นตอนง่ายๆ ดังนี้ ⬇️
+
+คู่มือ TU Free Wifi : https://fauth-1.tu.ac.th/wifi/download/TUFreeWiFi.pdf
+
+หากมีข้อสงสัยหรือปัญหาเกี่ยวกับ Wi-Fi ทั้งสองประเภท กรุณาติดต่อ สทส. ที่ Line @icttuhelpdesk
+
+# การลงทะเบียนเรียน / ขึ้นทะเบียนบัณฑิต
+
+หากท่านมีปัญหาเกี่ยวกับการลงทะเบียนเรียน / การแจ้งจบ / การขึ้นทะเบียนบัณฑิต
+
+กรุณาติดต่อสำนักทะเบียน มหาวิทยาลัยธรรมศาสตร์ที่ Facebook https://www.facebook.com/Registrar.TU
+
+## หากไม่สามารถลงทะเบียนเรียน หรือ ขึ้นทะเบียนบัณฑิตได้ เนื่องจาก "มีหนี้สินค้างกับหอสมุดฯ" กรุณาติดต่อ Line @tulibrary
+
+# การสั่งซื้อหนังสือ
+
+หากท่านสนใจสั่งซื้อหนังสือ สามารถติดต่อได้ที่ศูนย์หนังสือมหาวิทยาลัยธรรมศาสตร์ >>https://www.facebook.com/ThammasatBookstore
+
+# รวมคำถามเกี่ยวกับ TU e-Thesis
+
+## รวมคำถามเกี่ยวกับ TU e-Thesis สำหรับนักศึกษา
+
+1\. คำถาม: ระบบ TU e-Thesis คืออะไร
+
+คำตอบ: ระบบ TU e-Thesis คือ ระบบบริหารจัดการวิทยานิพนธ์ของนักศึกษาโดยเริ่ม
+
+ตั้งแต่กระบวนตรวจสอบความซ้ำไปจนถึงการนำวิทยานิพนธ์ฉบับอิเล็กทรอนิกส์ออกเผยแพร่ รวมทั้งจัดทำเป็นฐานข้อมูลเพื่อตรวจสอบความซ้ำของวิทยานิพนธ์ในอนาคต
+
+2\. คำถาม: ระบบ TU e-Thesis เกี่ยวข้องกับนักศึกษาอย่างไร
+
+คำตอบ: ตามประกาศมหาวิทยาลัยธรรมศาสตร์ เรื่องการทำวิทยานิพนธ์ สารนิพนธ์ และ
+
+การศึกษาค้นคว้าอิสระ พ.ศ. 2559 กำหนดให้นักศึกษาต้องตรวจสอบการคัดลอก วิทยานิพนธ์และส่งไฟล์วิทยานิพนธ์ฉบับสมบูรณ์เข้าระบบ TU e-Thesis
+
+3\. คำถาม: นักศึกษาจะเริ่มใช้งาน TU e-Thesis ได้เมื่อไหร่
+
+คำตอบ: เมื่อนักศึกษาลงทะเบียนวิทยานิพนธ์ และเจ้าหน้าที่คณะ / โครงการเพิ่มชื่อ
+
+นักศึกษาเข้าไปในระบบ TU e-Thesis โดยนักศึกษาต้องส่งไฟล์วิทยานิพนธ์เข้าระบบเพื่อตรวจสอบการคัดลอกก่อนสอบวิทยานิพนธ์
+
+4\. คำถาม: เข้าใช้ระบบ TU e-Thesis อย่างไร
+
+คำตอบ: นักศึกษาเข้าระบบ TU e-Thesis ได้ที่ http://tuethesis.library.tu.ac.th โดยใช้
+
+ชื่อผู้ใช้งานและรหัสผ่านเดียวกันกับ TU Wi-Fi หรือ Account เดียวกันกับที่เข้าระบบสำนักงานทะเบียนนักศึกษา หากไม่สามารถเข้าสู่ระบบได้นักศึกษาต้องติดต่อที่ สำนักงาน ศูนย์เทคโนโลยีสารสนเทศและการสื่อสาร (สทส.) ID Line : @icttuhelpdesk
+
+5\. คำถาม: วิทยานิพนธ์ภาษาต่างประเทศต้องส่งวิทยานิพนธ์เข้าระบบ TU e-Thesis หรือไม่
+
+คำตอบ: วิทยานิพนธ์ภาษาต่างประเทศ ให้ส่งไฟล์วิทยานิพนธ์เพื่อตรวจสอบความซ้ำด้วย Turnitin โดยขอรับ Account ID และ Password ได้ที่เว็บไฟซต์หอสมุดๆ เมนู Research support เลือกที่ RESEARCH TOOLS ตามลิ้งนี้ https://ibrary.tu.ac.th/bbs/content/94_586และนำไฟล์เดียวกันนี้ส่งเข้าระบบ TU e-Thesis โดยดำเนินการเช่นเดียวกันกับวิทยานิพนธ์ภาษาไทย
+
+6\. คำถาม: นักศึกษามีการเปลี่ยนชื่อ - นามสกุล ทำอย่างไร
+
+คำตอบ: เพื่อให้ ชื่อ - นามสกุลของนักศึกษาในระบบ TU e-Thesis เป็นปัจจุบันสามารถเกิดขึ้นได้ 2 กรณีดังนี้ (1) กรณีเปลี่ยนชื่อนามสกุล ก่อนการเพิ่มชื่อในระบบ TU e-Thesis นักศึกษาต้องแจ้งสำนักงานทะเบียนนักศึกษาเมื่อมีการเปลี่ยนแปลงชื่อ - นามสกุล (2) กรณีเปลี่ยน-นามสกุล หลังจากมีชื่อในระบบ TU e-Thesis แล้ว ให้แจ้งกับทางหอสมุดๆ ที่ Line TULIB LifeONLINE : @Https://lin.ee/bdwYsr1 เมนู Live Chat กับปรึกษา สอบถามเจ้าหน้าที่ *หมายเหตุ รวมถึงการเปลี่ยนแปลงชื่อ-สกุล ของอาจารย์ที่ปรึกษา ให้เจ้าหน้าที่คณะฯ แจ้งตามทั้ง 2 กรณีข้างต้น
+
+7\. คำถาม: ประเภทของไฟล์วิทยานิพนธ์ที่ส่งเข้าระบบ
+
+คำตอบ: ต้องเป็นไฟล์ที่สร้างจาก MS Word แล้ว Save โดยเลือก File type เป็น PDF กรณี
+
+ที่มี มากกว่า 1 ไฟล์ ให้รวมไฟล์ PDF ด้วยโปรแกรม Adobe Acrobat Pro (บุคลากร นักศึกษา สามารถดาวนโหลดได้ที่  https://wwwic.tuacth/index.php/th/ หรือติดต่อสำนักงานศูนย์เทคโนโลยีสารสนเทศและการสื่อสาร (สทส.) ที่ ID Line : @icttuhelpdesk
+
+8\. คำถาม: ระบบแจ้งว่าไฟล์วิทยานิพนธ์ไม่ถูกต้อง สามารถแก้ไขได้อย่างไร
+
+คำตอบ: ตรวจสอบว่าไฟล์วิทยานิพนธ์ที่ส่งเป็นไฟล์ PDF และถูกบันทึกจาก MS Word เป็น PDF หรือใช้โปรแกรม Adobe Acrobat ในการแปลงไฟล์ Word เป็น PDF
+
+9\. คำถาม: ส่งวิทยานิพนธ์ในระบบ TU e-Thesis มีขั้นตอนอย่างไร
+
+คำตอบ: หลังจาก Login เข้าสู่ระบบให้นักศึกษาคลิกที่ "ชื่อวิชา" เพื่อส่งไฟล์วิทยานิพนธ์เข้า
+
+ระบบโดย 1) พิมพ์ชื่อเรื่องวิทยานิพนธ์ 2) อัพโหลดไฟล์วิทยานิพนธ์ในรูปแบบ PDF และ 3) คลิก "อัพเดทผลการตรวจสอบ" เพื่อให้ระบบตรวจสอบการคัดลอกวิทยานิพนธ์ ทั้งนี้นักศึกษาสามารถส่งไฟล์เพื่อตรวจสอบการคัดลอกได้ 3 ครั้งต่อวัน
+
+10\. คำถาม: นักศึกษาสั่งพิมพ์ผลการตรวจวิทยานิพนธ์ได้อย่างไร
+
+คำตอบ: คลิกที่ "ผลตรวจ" จากนั้นสั่งพิมพ์ ต้นฉบับ และ รายงาน ผลการตรวจเอกสารซึ่งระบุหมายเลขอ้างอิง (Reference number) เพื่อนำไปใช้ในการสอบวิทยานิพนธ์
+
+11\. คำถาม: หากสอบวิทยานิพนธ์ไม่ผ่าน หรือผ่านแบบมีเงื่อนไข ต้องทำอย่างไร
+
+คำตอบ: กรณีสอบไม่ผ่าน หรือสอบผ่านอย่างมีเงื่อนไข นักศึกษาต้องปรับแก้วิทยานิพนธ์ตามคำแนะนำของกรรมการสอบและส่งเข้าระบบ TU e-Thesis เพื่อตรวจสอบการคัดลอกจนกว่ากรรมการสอบจะมีมติให้สอบผ่าน
+
+12\. คำถาม: หลังจากสอบวิทยานิพนธ์ผ่านแล้วมีขั้นตอนอย่างไรต่อไป
+
+คำตอบ: หากสอบวิทยานิพนธ์ผ่านแล้ว ให้นักศึกษาจัดทำวิทยานิพนธ์ให้เป็นไปตามรูปแบบที่หอสมุดฯ กำหนด และส่งไฟล์ฉบับสมบูรณ์เข้าระบบ TU e-Thesis อีกครั้ง จากนั้นสั่งพิมพ์ 1) ต้นฉบับวิทยานิพนธ์ 2) รายงานผลการตรวจวิทยานิพนธ์ ที่ระบุหมายเลขอ้างอิง (ref no.)จากระบบ TU e-Thesis และ 3) หน้าอนุมัติ ที่กรรมการสอบลงนามเรียบร้อยแล้ว 1 ชุดให้กับเจ้าหน้าที่คณะเพื่อตรวจรับไฟล์วิทยานิพนธ์ในระบบ
+
+13\. คำถาม: สามารถดูคู่มือการพิมพ์วิทยานิพนธ์ตามรูปแบบของมหาวิทยาลัยได้ที่ไหน
+
+คำตอบ: หน้าเว็บไซต์ของหอสมุด มธ. https://library.tu.ac.th เมนู Research Tools เลือกที่ Research Guides จากนั้นเลือกเมนู THESIS MANUALS & TEMPLATES
+
+14\. คำถาม: ขั้นตอนการลงทะเบียนในระบบ TU e-Thesis ขึ้นข้อความไม่สำเร็จ error หรือ system crashed
+
+คำตอบ: 1. ให้ออกจากระบบและล็อกอินเข้าสู่ระบบใหม่อีกครั้ง 2. หากยังขึ้น error ให้ติดต่อมายัง e-mail: tuethesisatu.ac.th หรือ Line: @tulibrary หอสมุดๆ จะประสานงานผู้ดูแลระบบเพื่อดำเนินการแก้ไขให้
+
+15\. คำถาม: นักศึกษาที่ทำวิทยานิพนธ์โดยมีหน้ากระดาษขนาด A3 ไม่สามารถอัปโหลดไฟล์ได้หรือเมื่อดาวน์โหลดไฟล์ออกมาแล้วหน้าไม่ครบต้องทำอย่างไร
+
+คำตอบ: ติดต่อ e-mail: tuethesisatu.ac.th หรือ Line TULIB LifeONLINE : @Https://lin.ee/bdwYsr1 เมนู Live Chat กับปรึกษา สอบถามเจ้าหน้าที่หอสมุดฯ จะประสานงานผู้ดูแลระบบเพื่อดำเนินการแก้ไขให้
+
+16\. คำถาม: หากภาคผนวกของนักศึกษาเป็นไฟล์ pdf ต้องทำอย่างไร
+
+คำตอบ: สามารถทำได้ 2 วิธี คือ 1. รวมไฟล์ภาคผนวกกับไฟล์เนื้อหาวิทยานิพนธ์ที่เป็นไฟล์ PDF ด้วยโปรแกรม Adobe
+
+Acrobat Pro 2. แปลงไฟล์ pdf ภาคผนวก ให้เป็น jpg แล้วนำมาใส่ในไฟล์ Word
+
+17\. คำถาม: Reference code ไม่ปรากฏในไฟล์ต้นฉบับต้องทำอย่างไร
+
+คำตอบ: ติดต่อ e-mail: tuethesisatu.ac.th หรือ Line TULIB LifeONLINE : @Https://lin.ee/bdwYsr1 เมนู Live Chat กับปรึกษา สอบถามเจ้าหน้าที่หอสมุดๆ จะประสานงานผู้ดูแลระบบเพื่อดำเนินการแก้ไขให้
+
+18\. คำถาม: การลงทะเบียนวิทยานิพนธ์ผ่านระบบ TU e-Thesis โดยมีขั้นตอนอย่างไร
+
+คำตอบ: เมื่อนักศึกษาสอบผ่าน และส่งเอกสาร กรอกรายละเอียดของวิทยานิพนธ์ กรณีประสงค์จะไม่เผยแพร่วิทยานิพนธ์ให้นักศึกษากรอกข้อมูลในแบบฟอร์มคำร้องไม่เผยแพร่วิทยานิพนธ์สารนิพนธ์ และการค้นคว้าอิสระ และนำส่งเจ้าหน้าที่คณะ และคลิก "ลงทะเบียน" เป็นอันสิ้นสุดการ ส่งวิทยานิพนธ์ในระบบ TU e-Thesis
+
+19\. คำถาม: กรณีที่นักศึกษาไม่สามารถล็อกอินเข้าสู่ระบบทำอย่างไร
+
+คำตอบ: (1) ไม่สามารถ Login เข้าสู่ระบบได้หลังจากลงทะเบียนวิทยานิพนธ์แล้ว ตรวจสอบ กับเจ้าหน้าที่คณะ / โครงการ เพื่อดูว่าเพิ่มชื่อนักศึกษาแล้วหรือยัง (2) หากตรวจสอบกับเจ้าหน้าที่คณะแล้วพบว่ามีชื่อในระบบ TU e-Thesis แต่ไม่สามารถ Login ได้ให้ติดต่อสำนักงานศูนย์เทคโนโลยีสารสนเทศและการสื่อสาร (สทส.) เพื่อสอบถามวิธีการ reset รหัสผ่าน
+
+20\. คำถาม: หากไฟล์วิทยานิพนธ์ที่ส่งเข้าระบบผิดทำอย่างไร
+
+คำตอบ: (1) กรณีที่เจ้าหน้าที่คณะกดตรวจรับวิทยานิพนธ์ (Approve) ในระบบแล้ว แต่นักศึกษายังไม่ลงทะเบียนข้อมูลวิทยานิพนธ์ในระบบ ให้ติดต่อเจ้าหน้าที่คณะเพื่อย้อน ขั้นตอนการส่งวิทยานิพนธ์เพื่อกลับไปอัพโหลดไฟล์ที่ถูกต้องเข้าระบบ (2) กรณีที่นักศึกษาลงทะเบียนข้อมูลวิทยานิพนธ์ในระบบแล้ว ให้ติดต่อเจ้าหน้าที่คณะเพื่อทำบันทึกแจ้งมายังหอสมุดฯ เพื่อให้ดำเนินการย้อนขั้นตอนให้โดยระบุรายข้อมูลของ วิทยานิพนธ์และสาเหตุที่ต้องการแก้ไขมาด้วย (3) เมื่อแก้ไขไฟล์วิทยานิพนธ์ในระบบแล้วให้ส่งเอกสาร [1] ต้นฉบับวิทยานิพนธ์ [2] รายงานผลการตรวจวิทยานิพนธ์จากระบบ TU e-Thesis เพื่อให้อาจารย์ที่ปรึกษาลงนาม และ [3] หน้าอนุมัติที่กรรมการสอบลงนามเรียบร้อยแล้ว 1 ชุด ให้กับเจ้าหน้าที่คณะเพื่อตรวจรับไฟล์วิทยานิพนธ์ในระบบ (4) เมื่อเจ้าหน้าที่คณะตรวจรับไฟล์วิทยานิพนธ์ในระบบเรียบร้อยแล้ว ให้นักศึกษาลงทะเบียนข้อมูลวิทยานิพนธ์ในระบบอีกครั้ง (5) การดำเนินการขอย้อนขั้นตอนเพื่อแก้ไขไฟล์วิทยานิพนธ์ควรดำเนินการให้เสร็จสิ้นก่อน วันสุดท้ายของภาคการศึกษา
+
+21\. คำถาม: นักศึกษาสามารถใช้บริการตรวจบทคัดย่อภาษาอังกฤษได้อย่างไร
+
+คำตอบ: ไปที่เว็บไซต์ https://uservice librar.tu.acth เพื่อใช้บริการตรวจบทคัดย่อ Abstract editing service ผู้เชียวชาญภาษาอังกฤษตรวจสอบให้ โดยใช้ระยะเวลาไม่เกิน 3 วันทำการ ทั้งนี้จำนวนคำของบทคัดย่อ (ภาษาอังกฤษ) โดยมีความยาวประมาณ 300 - 350 คำ และ นักศึกษาควรระบุรายละเอียดของวิทยานิพนธ์ เช่น ชื่อเรื่อง อาจารย์ที่ปรึกษา คณะ และใส่คำสำคัญ
+
+22\. คำถาม: กรณีนักศึกษาส่งไฟล์งานไม่ทันวันสิ้นสุดการส่งในระบบต้องทำอย่างไร
+
+คำตอบ: แจ้งเจ้าหน้าที่คณะเพื่อชี้แจงเหตุผล และ ขอดำเนินการขนาดวันสิ้นสุดการส่ง
+
+23\. คำถาม: สอบถามข้อมูลเพิ่มเติมได้ที่ใด
+
+คำตอบ: นักศึกษาและเจ้าหน้าที่คณะสามาถติดต่อผู้ดูแลระบบบริหารจัดการวิทยานิพนธ์ (TU e-Thesis) ได้ผ่านช่องทาง ดังนี้ (1) e-mail: tuethesis@tu.ac.th (2) Line: @tulibrary กรณีเจ้าหน้าที่คณะติดต่อผ่าน Line กลุ่มได้อีกช่องทาง (3) Facebook: Thammasat University Library
+
+## รวมคำถามเกี่ยวกับ TU e-Thesis สำหรับเจ้าหน้าที่คณะ
+
+1\. คำถาม: กรณีต้องการเพิ่มเจ้าหน้าที่คณะในระบบ TU e-Thesis ทำอย่างไร
+
+คำตอบ: ทำบันทึกข้อความแจ้งขอเพิ่มเจ้าหน้าที่คณะส่งมายังหอสมุดๆ
+
+2\. คำถาม: กรณีอาจารย์การเพิ่มชื่ออาจารย์ในระบบ TU e-Thesis โดยวิธีการค้นหาไม่พบต้องทำอย่างไรเจ้าหน้าที่หอสมุดๆ
+
+คำตอบ: เพิ่มชื่ออาจารย์ที่ปรึกษาโดยการพิมพ์ หากไม่สามารถบันทึกเพิ่มชื่ออาจารย์ได้ให้ติดต่อ
+
+3\. คำถาม: กรณีอาจารย์ที่ปรึกษาอยู่ต่างคณะ เพิ่มข้อมูลอย่างไร
+
+คำตอบ: เพิ่มชื่ออาจารย์ที่ปรึกษาโดยการพิมพ์ หากไม่สามารถบันทึกเพิ่มชื่ออาจารย์ได้ให้ติดต่อเจ้าหน้าที่หอสมุดๆ
+
+4\. คำถาม: ไม่พบข้อมูลของนักศึกษาในระบบ TU e-Thesis ต้อง ดำเนินการอย่างไร
+
+คำตอบ: ตรวจสอบ 2 จุด ได้แก่ 1) นักศึกษาลงทะเบียนรายวิชาวิทยานิพนธ์หรือ สารนิพนธ์ในระบบของสำนักทะเบียนแล้วหรือยัง 2) หากนักศึกษาลงทะเบียนเรียบร้อย แต่ไม่พบข้อมูลในระบบๆให้ติดต่อสำนักทะเบียนนักศึกษาเพื่อตรวจสอบข้อมูล
+
+5\. คำถาม: นักศึกษาส่งเล่มเข้าระบบเรียบร้อยแล้ว แต่ยังไม่จบการศึกษา เพราะรอตีพิมพ์บทความ ต้องดำเนินการในระบบ TU e-Thesis อย่างไร
+
+คำตอบ: กรณีดังกล่าวอาจต้องพิจารณาถึงเงื่อนไขในการสำเร็จการศึกษา ว่าได้กำหนดหรือไม่ว่าการ ส่งวิทยานิพนธ์ การตีพิมพ์บทความ การสอบภาษาอังกฤษ และการสอบผ่านรายวิชาต่าง ๆ ต้องมีความสัมพันธ์กันอย่างไร โดยอาจแบ่งเป็น 2 แนวทาง ได้แก่ 1) ไม่ต้องย้อนขั้นตอนการส่งวิทยานิพนธ์ที่สำเร็จแล้ว กรณีที่ทำวิทยานิพนธ์เรียบร้อยแล้วแต่รอตีพิมพ์บทความหรือรอผลสอบภาษาอังกฤษ เนื่องจากไม่ได้มีหลักเกณฑ์กำหนดว่า การทำวิทยานิพนธ์ต้องทำหลังจากตีพิมพ์บทความหรือสอบภาษาอังกฤษผ่านตามเงื่อนไขของการสำเร็จการศึกษาแล้ว ปีการศึกษาที่หน้าปกวิทยานิพนธ์จึงไม่จำเป็นต้องสัมพันธ์กับปีที่จบการศึกษา 2) ย้อนขั้นตอนการส่ง และให้แก้ไขปีการศึกษาที่ปรากฏในวิทยานิพนธ์ เพื่อให้สัมพันธ์กับปีที่จบการศึกษา
+
+6\. คำถาม: ระบบ TU e-Thesis รองรับชื่อวิทยานิพนธ์ที่มีตัวขระหรือสัญลักษณ์พิเศษหรือไม่
+
+คำตอบ: อักขระพิเศษเช่น punctuation หรือ a (alpha), ฿ (beta), V (gamma) ได้ ยกเว้นที่กรณีที่เป็นสูตร เช่น ตัวห้อย เลขยกกำลัง จะไม่สามารถทำได้
+
+7\. คำถาม: กรณีสายเซ็นหน้าอนุมัติไม่ปรากฏหลังจากนำเข้าระบบต้องทำอย่างไร
+
+คำตอบ: ให้ตรวจสอบว่าไฟล์เอกสารที่ลงนามว่าลงนามด้วยโปรแกรม Adobe Acrobat หรือไม่ หากพบว่าลงนามด้วยโปรแกรมแล้ว พบว่าลายเซ็นยังไม่ปรากฏให้ติดต่อเจ้าหน้าที่หอสมุดๆ
+
+8\. คำถาม: กรณีที่นักศึกษาลงทะเบียนข้อมูลวิทยานิพนธ์ในระบบแล้วต้องการย้อนขั้นตอนเพื่อแก้ไขเนื้อหา วิทยานิพนธ์ต้องทำอย่างไร
+
+คำตอบ: เจ้าหน้าที่คณะทำบันทึกแจ้งมายังหอสมุดฯ เพื่อให้ดำเนินการย้อนขั้นตอนให้โดยระบุรายข้อมูลของวิทยานิพนธ์และสาเหตุที่ต้องการแก้ไข
+
+9\. คำถาม: กรณีพบปัญหาการใช้งานระบบ TU e-Thesis ต้องทำอย่างไร
+
+คำตอบ: ติดต่อเจ้าหน้าที่หอสมุดฯ ได้ที่ไลน์กลุ่ม หรือ email: tuethesis@tu.ac.th
